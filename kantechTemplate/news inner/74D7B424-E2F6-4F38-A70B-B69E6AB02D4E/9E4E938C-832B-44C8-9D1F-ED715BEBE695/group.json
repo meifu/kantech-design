@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "9E4E938C-832B-44C8-9D1F-ED715BEBE695",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 393,
+    "width": 1341,
+    "x": -40,
+    "y": 951
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "19775AEC-80AC-45D4-B7CA-37B891212E96"
+    },
+    {
+      "class": "group",
+      "id": "62CEBB0E-19A9-43FD-8EA1-446ADD41E2B6"
+    },
+    {
+      "class": "text",
+      "id": "EC5C967B-7DAD-46D1-A06F-4F0E4E4632B6"
+    },
+    {
+      "class": "text",
+      "id": "86C36076-1E45-45E1-82DB-D338A36E0CA5"
+    },
+    {
+      "class": "text",
+      "id": "9E28EE52-A5AC-4979-9A7F-30C466E6F2CE"
+    },
+    {
+      "class": "text",
+      "id": "94C65196-B7B9-41A4-AE88-B4F2C0E422D0"
+    },
+    {
+      "class": "text",
+      "id": "51166C6E-0AC7-4115-A325-70823CA300FF"
+    },
+    {
+      "class": "text",
+      "id": "60C38FDB-7FC2-443C-A7E8-5D2E8E68A60A"
+    },
+    {
+      "class": "text",
+      "id": "1BBA59DE-F1A4-4454-A7E7-13E68BB0A935"
+    },
+    {
+      "class": "text",
+      "id": "62189516-D907-4B36-956E-01FBA776E2A0"
+    },
+    {
+      "class": "text",
+      "id": "C165FC3F-E6CB-4BF8-9699-1E1F2E5A2DE1"
+    },
+    {
+      "class": "text",
+      "id": "7DA65961-D5B8-48C0-8412-49324C345D67"
+    },
+    {
+      "class": "text",
+      "id": "12FCBF14-8E9F-4994-AD00-575DDCA84EA4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "33B86470-BC52-44A5-A2C8-FAD9070CA768"
+    },
+    {
+      "class": "text",
+      "id": "CBF0693B-A693-4813-BDE0-9F342CD6A56D"
+    },
+    {
+      "class": "text",
+      "id": "63426C4D-53D5-49B7-9436-25CE3DF70147"
+    }
+  ],
+  "name": "Group 13",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

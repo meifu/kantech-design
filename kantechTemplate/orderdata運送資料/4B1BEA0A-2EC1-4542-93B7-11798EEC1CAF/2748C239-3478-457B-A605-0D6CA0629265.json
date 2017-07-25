@@ -59,47 +59,82 @@
                   "UID": 9
                 },
                 {
-                  "UID": 10
+                  "UID": 13
                 },
                 {
-                  "UID": 18
+                  "UID": 21
                 },
                 {
                   "UID": 22
                 }
               ]
             },
-            "NSKern",
-            "MSAttributedStringFontAttribute",
             "NSParagraphStyle",
+            "MSAttributedStringFontAttribute",
+            "NSKern",
             "NSColor",
-            0,
             {
               "$class": {
-                "UID": 17
+                "UID": 12
               },
-              "NSFontDescriptorAttributes": {
-                "UID": 11
+              "NSAllowsTighteningForTruncation": 1,
+              "NSTabStops": {
+                "UID": 0
+              },
+              "NSTextBlocks": {
+                "UID": 10
+              },
+              "NSTextLists": {
+                "UID": 10
               }
             },
             {
               "$class": {
-                "UID": 16
+                "UID": 11
+              },
+              "NS.objects": [
+              ]
+            },
+            {
+              "$classes": [
+                "NSArray",
+                "NSObject"
+              ],
+              "$classname": "NSArray"
+            },
+            {
+              "$classes": [
+                "NSParagraphStyle",
+                "NSObject"
+              ],
+              "$classname": "NSParagraphStyle"
+            },
+            {
+              "$class": {
+                "UID": 20
+              },
+              "NSFontDescriptorAttributes": {
+                "UID": 14
+              }
+            },
+            {
+              "$class": {
+                "UID": 19
               },
               "NS.keys": [
                 {
-                  "UID": 12
+                  "UID": 15
                 },
                 {
-                  "UID": 13
+                  "UID": 16
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 14
+                  "UID": 17
                 },
                 {
-                  "UID": 15
+                  "UID": 18
                 }
               ]
             },
@@ -122,42 +157,7 @@
               ],
               "$classname": "NSFontDescriptor"
             },
-            {
-              "$class": {
-                "UID": 21
-              },
-              "NSAllowsTighteningForTruncation": 1,
-              "NSTabStops": {
-                "UID": 0
-              },
-              "NSTextBlocks": {
-                "UID": 19
-              },
-              "NSTextLists": {
-                "UID": 19
-              }
-            },
-            {
-              "$class": {
-                "UID": 20
-              },
-              "NS.objects": [
-              ]
-            },
-            {
-              "$classes": [
-                "NSArray",
-                "NSObject"
-              ],
-              "$classname": "NSArray"
-            },
-            {
-              "$classes": [
-                "NSParagraphStyle",
-                "NSObject"
-              ],
-              "$classname": "NSParagraphStyle"
-            },
+            0,
             {
               "$class": {
                 "UID": 25
@@ -204,16 +204,16 @@
               },
               "NS.keys": [
                 {
-                  "UID": 8
+                  "UID": 5
                 },
                 {
                   "UID": 28
                 },
                 {
-                  "UID": 7
+                  "UID": 8
                 },
                 {
-                  "UID": 5
+                  "UID": 7
                 }
               ],
               "NS.objects": [
@@ -227,27 +227,29 @@
                   "UID": 35
                 },
                 {
-                  "UID": 9
+                  "UID": 21
                 }
               ]
             },
             "MSAttributedStringFontAttribute",
             {
               "$class": {
-                "UID": 25
+                "UID": 12
               },
-              "NSColorSpace": 1,
-              "NSCustomColorSpace": {
-                "UID": 23
+              "NSAllowsTighteningForTruncation": 1,
+              "NSTabStops": {
+                "UID": 0
               },
-              "NSRGB": {
-                "data": "0.5333333333 0.5333333333 0.5333333333\u0000",
-                "type": "Buffer"
+              "NSTextBlocks": {
+                "UID": 10
+              },
+              "NSTextLists": {
+                "UID": 10
               }
             },
             {
               "$class": {
-                "UID": 17
+                "UID": 20
               },
               "NSFontDescriptorAttributes": {
                 "UID": 31
@@ -255,7 +257,7 @@
             },
             {
               "$class": {
-                "UID": 16
+                "UID": 19
               },
               "NS.keys": [
                 {
@@ -267,7 +269,7 @@
               ],
               "NS.objects": [
                 {
-                  "UID": 14
+                  "UID": 17
                 },
                 {
                   "UID": 34
@@ -279,17 +281,15 @@
             "HiraKakuPro-W3",
             {
               "$class": {
-                "UID": 21
+                "UID": 25
               },
-              "NSAllowsTighteningForTruncation": 1,
-              "NSTabStops": {
-                "UID": 0
+              "NSColorSpace": 1,
+              "NSCustomColorSpace": {
+                "UID": 23
               },
-              "NSTextBlocks": {
-                "UID": 19
-              },
-              "NSTextLists": {
-                "UID": 19
+              "NSRGB": {
+                "data": "0.5333333333 0.5333333333 0.5333333333\u0000",
+                "type": "Buffer"
               }
             },
             {

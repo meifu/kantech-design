@@ -1,0 +1,206 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "6DD3B73B-7269-4162-84E5-2101807860EB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1245,
+    "width": 768,
+    "x": 230,
+    "y": -651
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      753,
+      15,
+      384,
+      255,
+      271,
+      497,
+      513,
+      284,
+      484,
+      84,
+      685,
+      567,
+      406.1451612903226
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "06106A65-62B7-4591-A670-F1AD39381E8C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "979DD401-1880-4B61-ABD3-C7A65C54A468"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "184DB748-7C56-4CD7-A283-E2C44B330636"
+    },
+    {
+      "class": "group",
+      "id": "3F564C21-CB5E-4A38-B36C-1BD1262920F3"
+    },
+    {
+      "class": "bitmap",
+      "id": "0161FDC5-AD7F-401C-9E55-77640968C18D"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E70F44ED-50D7-445F-8683-AD1CF85BFC95"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EB797E39-0613-49C4-8618-6B3CFFF40E4B"
+    },
+    {
+      "class": "group",
+      "id": "49127DCB-0B67-4A9C-9859-AB9F459537C6"
+    },
+    {
+      "class": "group",
+      "id": "98561506-1C90-4738-8998-4A38C1A39E44"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "CD818841-68EC-4A87-B7A6-3B4E8BF13FE7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9D6F8B1E-27BF-43A7-956F-4309DF4F3E4B"
+    },
+    {
+      "class": "text",
+      "id": "5646D268-354F-4E5F-ACB2-A5DC48C07846"
+    },
+    {
+      "class": "group",
+      "id": "22507A85-35D1-4A34-A15E-6A736163EB09"
+    },
+    {
+      "class": "text",
+      "id": "4E61DD2C-9FB3-4EE2-A2B9-28E807FE23C0"
+    },
+    {
+      "class": "text",
+      "id": "8A491E61-B17D-4DFA-B8F2-8DF707550388"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6DC71617-5145-43AC-9E57-8EB021140CA7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "79CACA82-AE92-49B3-9EC1-4C6D07446B16"
+    },
+    {
+      "class": "text",
+      "id": "80E6B67C-2CB0-4DB6-ABCB-962D24EAC5F7"
+    },
+    {
+      "class": "text",
+      "id": "80DB4EE0-6683-4E95-9600-82E20C83DF3D"
+    },
+    {
+      "class": "text",
+      "id": "BA979EF6-118F-4C20-B5B0-FCC2A75C7038"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "18A73623-F3A4-4DBF-8BCB-B7CD06BAAFAA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DD6BB256-F74D-494A-9F8B-3B9C51FEB096"
+    },
+    {
+      "class": "text",
+      "id": "3351CC6D-8BD9-4AA2-8002-508EBB5A9AA4"
+    },
+    {
+      "class": "text",
+      "id": "CCF1FB1F-0266-4790-ADED-3642968530C3"
+    },
+    {
+      "class": "text",
+      "id": "B48A5819-E95C-467F-A9E5-0008F1D4BD27"
+    },
+    {
+      "class": "group",
+      "id": "F4FF4B5A-82F1-414C-A643-77990AF9BBE3"
+    },
+    {
+      "class": "group",
+      "id": "23F519E6-D39B-40FD-B7F3-77BF1013AF0A"
+    },
+    {
+      "class": "group",
+      "id": "EF401FC4-E567-49E4-8BB9-B292F208E34B"
+    },
+    {
+      "class": "group",
+      "id": "1177AFC7-C5CE-442B-B636-587BA857D26A"
+    },
+    {
+      "class": "group",
+      "id": "1712ABAB-E3E5-432E-94BC-C3863B6941B1"
+    }
+  ],
+  "name": "Tablet Portrait",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      50,
+      1890,
+      77
+    ]
+  }
+}

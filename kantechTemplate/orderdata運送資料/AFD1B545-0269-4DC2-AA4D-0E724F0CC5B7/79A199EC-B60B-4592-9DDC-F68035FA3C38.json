@@ -59,47 +59,85 @@
                   "UID": 9
                 },
                 {
-                  "UID": 10
+                  "UID": 13
                 },
                 {
-                  "UID": 18
+                  "UID": 21
                 },
                 {
                   "UID": 22
                 }
               ]
             },
-            "NSKern",
-            "MSAttributedStringFontAttribute",
             "NSParagraphStyle",
+            "MSAttributedStringFontAttribute",
+            "NSKern",
             "NSColor",
-            0,
             {
               "$class": {
-                "UID": 17
+                "UID": 12
               },
-              "NSFontDescriptorAttributes": {
-                "UID": 11
+              "NSAllowsTighteningForTruncation": 1,
+              "NSMaxLineHeight": 19,
+              "NSMinLineHeight": 19,
+              "NSTabStops": {
+                "UID": 0
+              },
+              "NSTextBlocks": {
+                "UID": 10
+              },
+              "NSTextLists": {
+                "UID": 10
               }
             },
             {
               "$class": {
-                "UID": 16
+                "UID": 11
+              },
+              "NS.objects": [
+              ]
+            },
+            {
+              "$classes": [
+                "NSArray",
+                "NSObject"
+              ],
+              "$classname": "NSArray"
+            },
+            {
+              "$classes": [
+                "NSMutableParagraphStyle",
+                "NSParagraphStyle",
+                "NSObject"
+              ],
+              "$classname": "NSMutableParagraphStyle"
+            },
+            {
+              "$class": {
+                "UID": 20
+              },
+              "NSFontDescriptorAttributes": {
+                "UID": 14
+              }
+            },
+            {
+              "$class": {
+                "UID": 19
               },
               "NS.keys": [
                 {
-                  "UID": 12
+                  "UID": 15
                 },
                 {
-                  "UID": 13
+                  "UID": 16
                 }
               ],
               "NS.objects": [
                 {
-                  "UID": 14
+                  "UID": 17
                 },
                 {
-                  "UID": 15
+                  "UID": 18
                 }
               ]
             },
@@ -122,45 +160,7 @@
               ],
               "$classname": "NSFontDescriptor"
             },
-            {
-              "$class": {
-                "UID": 21
-              },
-              "NSAllowsTighteningForTruncation": 1,
-              "NSMaxLineHeight": 19,
-              "NSMinLineHeight": 19,
-              "NSTabStops": {
-                "UID": 0
-              },
-              "NSTextBlocks": {
-                "UID": 19
-              },
-              "NSTextLists": {
-                "UID": 19
-              }
-            },
-            {
-              "$class": {
-                "UID": 20
-              },
-              "NS.objects": [
-              ]
-            },
-            {
-              "$classes": [
-                "NSArray",
-                "NSObject"
-              ],
-              "$classname": "NSArray"
-            },
-            {
-              "$classes": [
-                "NSMutableParagraphStyle",
-                "NSParagraphStyle",
-                "NSObject"
-              ],
-              "$classname": "NSMutableParagraphStyle"
-            },
+            0,
             {
               "$class": {
                 "UID": 27
@@ -231,27 +231,27 @@
               },
               "NS.keys": [
                 {
-                  "UID": 8
+                  "UID": 5
                 },
                 {
                   "UID": 6
                 },
                 {
-                  "UID": 7
+                  "UID": 8
                 },
                 {
-                  "UID": 5
+                  "UID": 7
                 }
               ],
               "NS.objects": [
                 {
+                  "UID": 9
+                },
+                {
+                  "UID": 13
+                },
+                {
                   "UID": 22
-                },
-                {
-                  "UID": 10
-                },
-                {
-                  "UID": 18
                 },
                 {
                   "UID": 30

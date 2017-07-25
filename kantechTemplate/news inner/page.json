@@ -1,0 +1,72 @@
+{
+  "_class": "page",
+  "do_objectID": "4B0D5B6F-D575-481D-84A3-5BF42FF0FFC3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -599,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "AA35B58F-DDBF-4F80-8E6C-369D4B0232D9"
+    },
+    {
+      "class": "artboard",
+      "id": "130ABE08-0325-4A7E-8300-8FBDFAE86BC7"
+    },
+    {
+      "class": "artboard",
+      "id": "74D7B424-E2F6-4F38-A70B-B69E6AB02D4E"
+    }
+  ],
+  "name": "news inner",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -298,
+    "guides": [
+    ]
+  }
+}

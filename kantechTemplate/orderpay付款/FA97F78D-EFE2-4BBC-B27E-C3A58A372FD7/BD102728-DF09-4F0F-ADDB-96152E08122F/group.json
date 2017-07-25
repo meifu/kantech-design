@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "BD102728-DF09-4F0F-ADDB-96152E08122F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 393,
+    "width": 1341,
+    "x": -33,
+    "y": 798
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8B959F0B-BE32-4183-B878-421CA118F007"
+    },
+    {
+      "class": "group",
+      "id": "B7C1DF07-903A-4706-8958-C36C22929218"
+    },
+    {
+      "class": "text",
+      "id": "92B95149-5997-48EB-BE57-DFE06CCBB0F6"
+    },
+    {
+      "class": "text",
+      "id": "E657B717-44B0-43E3-9A65-2191AB16BDF9"
+    },
+    {
+      "class": "text",
+      "id": "84891F85-6666-4A83-8505-08BB25538A27"
+    },
+    {
+      "class": "text",
+      "id": "5363935C-BE2B-4EA3-8BF0-39509158E023"
+    },
+    {
+      "class": "text",
+      "id": "0C7CD6C4-A056-4A8D-8140-F45346BE26F7"
+    },
+    {
+      "class": "text",
+      "id": "E2A95B94-BC1B-455E-B0B4-1A2E956138CF"
+    },
+    {
+      "class": "text",
+      "id": "BCC2F02E-FAF7-45A7-9C36-CF37BF397645"
+    },
+    {
+      "class": "text",
+      "id": "D06F562D-96EF-442A-B3EF-82A1E6FFD06A"
+    },
+    {
+      "class": "text",
+      "id": "5CC156FC-A662-48E8-B291-09CB1A709E9F"
+    },
+    {
+      "class": "text",
+      "id": "9BE593FD-87EB-4731-B590-2EF771997CC9"
+    },
+    {
+      "class": "text",
+      "id": "61FE89EE-1CF4-48E9-833B-FFDC2F4FFEF6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FFAC82F5-E122-4116-BB31-47FB479C8C22"
+    },
+    {
+      "class": "text",
+      "id": "E7D71ED9-A6B4-4D4B-AC75-84143312FFD1"
+    },
+    {
+      "class": "text",
+      "id": "9E007F0A-CAFB-4DB6-9BE8-84E4D8341157"
+    }
+  ],
+  "name": "Group 13",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

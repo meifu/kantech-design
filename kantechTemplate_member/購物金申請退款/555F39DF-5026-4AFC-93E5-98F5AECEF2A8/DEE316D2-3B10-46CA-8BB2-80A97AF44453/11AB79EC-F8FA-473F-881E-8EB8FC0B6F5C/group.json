@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "11AB79EC-F8FA-473F-881E-8EB8FC0B6F5C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 393,
+    "width": 1341,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "549D06D9-7F88-4235-B106-A1B3231A84D4"
+    },
+    {
+      "class": "group",
+      "id": "EA567999-3CC6-4CDC-8849-D111BD24A3E5"
+    },
+    {
+      "class": "text",
+      "id": "B60245C6-C5C3-4EF0-A1A6-9E9400A45689"
+    },
+    {
+      "class": "text",
+      "id": "4E0894C4-27CC-441B-8D29-B6ABD3118624"
+    },
+    {
+      "class": "text",
+      "id": "FD9DBD7B-D83D-43AC-A2BC-DD4A8FE5BDB1"
+    },
+    {
+      "class": "text",
+      "id": "1CD74F4E-4C5F-4C7F-B364-4B53548D5EC5"
+    },
+    {
+      "class": "text",
+      "id": "37C7794A-E164-41C4-A7C9-7834D0ECB812"
+    },
+    {
+      "class": "text",
+      "id": "CE33DD5F-D6B1-4294-9F04-5A9B35A1AFDC"
+    },
+    {
+      "class": "text",
+      "id": "0B23C888-4A84-4751-92FD-4076156326A9"
+    },
+    {
+      "class": "text",
+      "id": "F651E1AC-6027-4D0E-BE21-2DD4E8A5C922"
+    },
+    {
+      "class": "text",
+      "id": "0A52607B-7CEA-45BF-9033-149FF986216F"
+    },
+    {
+      "class": "text",
+      "id": "EF562F6A-9E2E-45D1-A111-A5FE8CDB8656"
+    },
+    {
+      "class": "text",
+      "id": "F6CFF293-96A8-4740-A84F-C37614F21679"
+    },
+    {
+      "class": "group",
+      "id": "AF2E7B2D-8E0F-4E00-8B70-8E8752BB1183"
+    },
+    {
+      "class": "text",
+      "id": "A05079C9-A87E-4DD4-9021-9B51B29D37E0"
+    },
+    {
+      "class": "text",
+      "id": "04D599EC-6209-49A9-8F3B-B5AED7156EA7"
+    }
+  ],
+  "name": "Group 13",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

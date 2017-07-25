@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "4E9EBE0B-1D09-49D1-A033-64A553B30672",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 393,
+    "width": 1341,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "044B7BF9-13C4-4FC2-8CE9-42B450E8A08D"
+    },
+    {
+      "class": "group",
+      "id": "8FD5E294-6A31-4B10-ACD4-27494469E61C"
+    },
+    {
+      "class": "text",
+      "id": "57879DD1-3716-40B0-947C-ECFFE40DF214"
+    },
+    {
+      "class": "text",
+      "id": "EE31DE9B-42FA-44C9-BC77-AEA22BF5080F"
+    },
+    {
+      "class": "text",
+      "id": "80C135AB-65A6-4F3C-8C29-62FDFB0B1727"
+    },
+    {
+      "class": "text",
+      "id": "11BC703D-7CC5-49E7-99F7-7CB32C67AC1A"
+    },
+    {
+      "class": "text",
+      "id": "36A8A41C-90B9-4B52-9838-4FD9C18C3674"
+    },
+    {
+      "class": "text",
+      "id": "75AC5428-2D9C-43F5-9485-868920A56B34"
+    },
+    {
+      "class": "text",
+      "id": "3E20B0E0-07CF-46DF-ADAD-5322F73A7CF9"
+    },
+    {
+      "class": "text",
+      "id": "8F4EAF53-CC46-4F7A-9112-D5D9EEF87341"
+    },
+    {
+      "class": "text",
+      "id": "FD4D866E-6D1C-4B63-B1B7-666A0BC5BEA9"
+    },
+    {
+      "class": "text",
+      "id": "308496A1-3A02-4F1E-B82C-662E25B28FFB"
+    },
+    {
+      "class": "text",
+      "id": "504E787D-11C3-4FCD-865F-ACBCB9740ABE"
+    },
+    {
+      "class": "group",
+      "id": "CDB17B68-C7B9-486D-B33F-EDDF3E0D7136"
+    },
+    {
+      "class": "text",
+      "id": "26BF3621-99C9-4676-95D2-7EB368C6FFA4"
+    },
+    {
+      "class": "text",
+      "id": "1438DEA7-457F-4279-B29F-010B066D982B"
+    }
+  ],
+  "name": "Group 13",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

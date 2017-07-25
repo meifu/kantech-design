@@ -1,0 +1,72 @@
+{
+  "_class": "page",
+  "do_objectID": "6FA4E075-9E0C-475D-AC6D-E1F3B4BE43C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -573,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "7EF924CF-9CD5-4EE7-B4F6-7C1F199FEDBA"
+    },
+    {
+      "class": "artboard",
+      "id": "7B6A9F91-EEB6-4621-B1A9-7E079CACE282"
+    },
+    {
+      "class": "artboard",
+      "id": "D1B50207-1AAD-4181-9D38-20D57B73B935"
+    }
+  ],
+  "name": "訂單明細&問答",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -328,
+    "guides": [
+    ]
+  }
+}

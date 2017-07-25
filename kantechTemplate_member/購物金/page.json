@@ -1,0 +1,72 @@
+{
+  "_class": "page",
+  "do_objectID": "0FFB8129-EAD9-4A67-B4B5-B5AFCABEA2EF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -508,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "A60BF93B-D404-43EF-99A7-58AFC6E0EAC6"
+    },
+    {
+      "class": "artboard",
+      "id": "62B04B0C-C70D-41E0-B9AF-B1C3C0FBB54B"
+    },
+    {
+      "class": "artboard",
+      "id": "FA2C118F-2769-4C12-B60E-6DC2C360C106"
+    }
+  ],
+  "name": "購物金",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -286,
+    "guides": [
+    ]
+  }
+}

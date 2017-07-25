@@ -1,0 +1,76 @@
+{
+  "_class": "page",
+  "do_objectID": "B4BB425E-CA0D-4CD4-B1EA-CFD6DCCC4D7C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -508,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "72616420-375E-4213-94E4-64EF3FD3A5A3"
+    },
+    {
+      "class": "artboard",
+      "id": "2EB7E516-CC92-4C88-9FC0-9707FB09CB1C"
+    },
+    {
+      "class": "artboard",
+      "id": "21D82E5D-1B72-4B3A-B9BB-E24375563A2A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2474F06D-AD9B-4196-85D9-370897FBDE1A"
+    }
+  ],
+  "name": "退貨申請",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -286,
+    "guides": [
+    ]
+  }
+}

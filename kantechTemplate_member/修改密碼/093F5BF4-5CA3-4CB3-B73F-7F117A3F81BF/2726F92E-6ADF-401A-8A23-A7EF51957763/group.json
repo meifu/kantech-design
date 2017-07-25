@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "2726F92E-6ADF-401A-8A23-A7EF51957763",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 393,
+    "width": 1341,
+    "x": -41,
+    "y": 913
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6FE07D6F-D78F-46DD-9AA5-A9745EB506D5"
+    },
+    {
+      "class": "group",
+      "id": "7BD6F9FC-EB6B-434C-A271-C34DB60C245D"
+    },
+    {
+      "class": "text",
+      "id": "36A8C695-A4F9-45A9-A2C5-78ACEA709413"
+    },
+    {
+      "class": "text",
+      "id": "42F8111E-90EA-43FB-B0D5-A777381D7A3E"
+    },
+    {
+      "class": "text",
+      "id": "84236749-5851-4974-BD62-4FAE4276A932"
+    },
+    {
+      "class": "text",
+      "id": "8FD5753F-59F0-4EC9-A595-F77D7777F8DC"
+    },
+    {
+      "class": "text",
+      "id": "5E66582E-C356-4814-A866-FD45D2929524"
+    },
+    {
+      "class": "text",
+      "id": "14306B5A-7A55-452E-9A1D-C37E147420FE"
+    },
+    {
+      "class": "text",
+      "id": "BC3E7604-6FEE-4EFE-809D-6D082FC1D6F2"
+    },
+    {
+      "class": "text",
+      "id": "CBE69F80-67B4-47FE-A8D9-8B85FBC724CB"
+    },
+    {
+      "class": "text",
+      "id": "E90917C8-3BD1-4FA3-BDED-632B5F1002A3"
+    },
+    {
+      "class": "text",
+      "id": "4711A855-A448-494E-B51A-5F8466A675DC"
+    },
+    {
+      "class": "text",
+      "id": "8544B893-3630-42EA-8ECC-9BADE10E61A7"
+    },
+    {
+      "class": "group",
+      "id": "8681F453-009B-4A4D-912A-B23EA8067FF5"
+    },
+    {
+      "class": "text",
+      "id": "8149A47A-4D1E-42D3-AA47-7AEE89C9B64C"
+    },
+    {
+      "class": "text",
+      "id": "3073DFCF-6854-4F6A-8FB7-4B8A140C9894"
+    }
+  ],
+  "name": "Group 13",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

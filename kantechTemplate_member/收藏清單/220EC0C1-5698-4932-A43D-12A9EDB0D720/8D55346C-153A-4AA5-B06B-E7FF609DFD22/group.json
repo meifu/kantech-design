@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "8D55346C-153A-4AA5-B06B-E7FF609DFD22",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 393,
+    "width": 1341,
+    "x": -40,
+    "y": 735
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9B6C0AE2-EA9F-41D7-B44F-7693849B4A2D"
+    },
+    {
+      "class": "group",
+      "id": "98B11387-463A-46B9-A8EE-74AD038C86B5"
+    },
+    {
+      "class": "text",
+      "id": "A39DC6BF-9D11-4FCE-8D25-50697FCF7467"
+    },
+    {
+      "class": "text",
+      "id": "48477E39-32D0-41EF-A659-1E073DF0E343"
+    },
+    {
+      "class": "text",
+      "id": "4675CAED-8211-44B6-913A-63220B59FDCB"
+    },
+    {
+      "class": "text",
+      "id": "7F8CEE83-D2DF-46B6-80C0-36B66728E72F"
+    },
+    {
+      "class": "text",
+      "id": "20F17EAB-D96E-4765-8E29-FD5F922E31F7"
+    },
+    {
+      "class": "text",
+      "id": "FBD491CE-DAA7-4DC2-8BC4-59532664A2D9"
+    },
+    {
+      "class": "text",
+      "id": "44BEBE19-72EE-4725-A0E5-D11B27AA1C1F"
+    },
+    {
+      "class": "text",
+      "id": "2BB2B137-791B-4C46-BF56-BC6E884405BA"
+    },
+    {
+      "class": "text",
+      "id": "CD403514-BB5F-4EC6-99D8-A0072EEBF969"
+    },
+    {
+      "class": "text",
+      "id": "E12F5F11-A2A9-4CF5-92D1-45869497B59D"
+    },
+    {
+      "class": "text",
+      "id": "9A9A79D6-5ECE-4575-8A2F-E190C89AE82F"
+    },
+    {
+      "class": "group",
+      "id": "F9DF54B2-A4EF-43B9-B637-0800F1CD3E9E"
+    },
+    {
+      "class": "text",
+      "id": "6B6CC154-6889-4746-B6DB-94D4DFCD797A"
+    },
+    {
+      "class": "text",
+      "id": "F5E21669-27DD-4C35-92B8-55363ECD0922"
+    }
+  ],
+  "name": "Group 13",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

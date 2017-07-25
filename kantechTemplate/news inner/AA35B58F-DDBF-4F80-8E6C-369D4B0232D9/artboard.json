@@ -1,0 +1,130 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "AA35B58F-DDBF-4F80-8E6C-369D4B0232D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1150,
+    "width": 360,
+    "x": 1224,
+    "y": -1100
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      15,
+      -84,
+      345,
+      180,
+      100
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F57F144B-5B3C-4670-934D-022F4DDB48BB"
+    },
+    {
+      "class": "bitmap",
+      "id": "70F9DCB3-A0CF-4B3F-881D-D974F6ACA363"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7F53E424-9B5E-4A4B-A5BE-4102FB0C8D9E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B3519CA8-A2A6-4577-B137-675A82593B12"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "D8C5482A-4617-4CA5-AFC1-2180D791C11F"
+    },
+    {
+      "class": "text",
+      "id": "37397D3E-9DA6-4FCC-830F-ECC2F5D0DA83"
+    },
+    {
+      "class": "group",
+      "id": "F393EEA9-63A4-4C08-8ABD-EFEA126F5079"
+    },
+    {
+      "class": "text",
+      "id": "7880B835-EF00-433F-B8D7-719A60F3F0FA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "41E46384-9826-4688-8A05-A71F72C6EDEA"
+    },
+    {
+      "class": "text",
+      "id": "82CA35A3-3443-4C3C-B9E9-03E59DFC71A5"
+    },
+    {
+      "class": "text",
+      "id": "A73B8195-3FFB-449F-B29E-35069F2B614A"
+    },
+    {
+      "class": "text",
+      "id": "84BFCEB2-3AB5-40E5-B35E-CB87AE7E2719"
+    }
+  ],
+  "name": "Mobile Portrait",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -149,
+    "guides": [
+      51,
+      1074,
+      1403,
+      1739,
+      81,
+      99,
+      129
+    ]
+  }
+}

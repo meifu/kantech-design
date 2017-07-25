@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "C006A79E-F5EE-4546-8C73-C1475B0AFCCF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 393,
+    "width": 1977,
+    "x": -32,
+    "y": 1827
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "096A0208-0FA2-4B12-842D-8A7F41DD5027"
+    },
+    {
+      "class": "group",
+      "id": "F0EFDED3-F5A4-49FB-B3B5-CEEFE16F44EB"
+    },
+    {
+      "class": "text",
+      "id": "12BE80DB-F356-4AB8-A8E6-2E38F93E026E"
+    },
+    {
+      "class": "text",
+      "id": "F0F98E43-503C-445B-9C7E-B73BF8237EDE"
+    },
+    {
+      "class": "text",
+      "id": "8409AC0D-44E0-4023-B366-2A086F0AE690"
+    },
+    {
+      "class": "text",
+      "id": "A0F361E8-6756-4D05-BB5F-D30EF17DD271"
+    },
+    {
+      "class": "text",
+      "id": "D47DD178-35C1-434E-8662-2CC889C8E424"
+    },
+    {
+      "class": "text",
+      "id": "88333839-CA37-46B3-BFB6-1020FF86011B"
+    },
+    {
+      "class": "text",
+      "id": "F11CF52B-5882-4556-A67A-3C16D55648EC"
+    },
+    {
+      "class": "text",
+      "id": "E722EA53-8670-4A9E-A745-8097E9881BD6"
+    },
+    {
+      "class": "text",
+      "id": "19D0FB7F-AD14-4251-99E3-AA1AA5ED0F82"
+    },
+    {
+      "class": "text",
+      "id": "5381233A-4B82-4624-BC8B-A196DAA23100"
+    },
+    {
+      "class": "text",
+      "id": "8AA0781D-2838-44F1-A915-9AC4B6F77CD6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A28242F9-BB9A-49A1-9E31-5093961B2BA4"
+    },
+    {
+      "class": "text",
+      "id": "0D2622B3-2603-4D63-911B-386DA99FB7BE"
+    },
+    {
+      "class": "text",
+      "id": "C0C39B9C-3174-49BC-887B-2AC89900C851"
+    }
+  ],
+  "name": "Group 9",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

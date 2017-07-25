@@ -1,0 +1,155 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "B5497741-A3AF-4198-9FA9-45BBECE78A4A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1550,
+    "width": 360,
+    "x": 1224,
+    "y": -1100
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      15,
+      -84,
+      345,
+      180,
+      100
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "9A13827E-5E3F-4FBD-87B9-3469C2EEEB24"
+    },
+    {
+      "class": "bitmap",
+      "id": "8672E1B3-E69F-41CC-8994-70CB855F6013"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6EEF4394-99E5-433F-AF09-BB3C5CB1BD55"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BCB1E507-FF00-4CEC-8739-8E32A9B07CF9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C5317D74-E521-4205-A88B-38B8E6FD6296"
+    },
+    {
+      "class": "text",
+      "id": "F179BD6A-DBC0-41FE-94EE-B41DEA2D7941"
+    },
+    {
+      "class": "group",
+      "id": "1CBAF1B0-492C-4354-96A1-81FA7E026288"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F76D6F2A-D333-4332-A85C-496A7CF93DC2"
+    },
+    {
+      "class": "text",
+      "id": "AACA22A2-DB4C-40D9-ACA1-26E050162E39"
+    },
+    {
+      "class": "group",
+      "id": "E5E4E1C9-5C42-463C-875D-FB39EC3D83ED"
+    },
+    {
+      "class": "group",
+      "id": "15F4FDA1-5E89-4016-A36D-76719F996A2A"
+    },
+    {
+      "class": "group",
+      "id": "AEDCBB7A-540A-41D1-A632-3FFB6565B8B8"
+    },
+    {
+      "class": "group",
+      "id": "F5507097-0A17-40E4-9C33-469A49E1085F"
+    },
+    {
+      "class": "group",
+      "id": "08B36C5C-A4B6-4766-9F93-C636964E456A"
+    },
+    {
+      "class": "group",
+      "id": "CF073C31-CE8D-46C0-BAE2-41E72A38B037"
+    },
+    {
+      "class": "group",
+      "id": "3F6E8DDF-2DA8-4CF6-BB64-D77DE1545A27"
+    },
+    {
+      "class": "group",
+      "id": "1458BC84-CA9E-4D37-95D2-BD5113F55D54"
+    },
+    {
+      "class": "group",
+      "id": "B8AFB854-B9BB-44E2-AB54-1FF9B51B5268"
+    }
+  ],
+  "name": "Mobile Portrait",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -149,
+    "guides": [
+      51,
+      1074,
+      1403,
+      1739,
+      81,
+      99,
+      129,
+      286
+    ]
+  }
+}

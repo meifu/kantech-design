@@ -1,0 +1,151 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "76E2C7A1-BFAE-4F5D-B38C-9A78D60DD4A7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 970,
+    "width": 1200,
+    "x": 1916,
+    "y": -601
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      600,
+      30,
+      1170,
+      555,
+      645
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "6CDEDF8B-AF60-4B16-9A50-C2BEAE7EC50B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "58F84E1B-31F5-4F8D-9426-DB9E6E25A2A9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "28D90CFF-4904-449B-80FB-A85D20F9CA14"
+    },
+    {
+      "class": "text",
+      "id": "6AB4D6B8-4FA7-4D7E-BA2D-B23B397B774F"
+    },
+    {
+      "class": "group",
+      "id": "55448EA2-ACF9-45F2-ABE8-5A01D8EBFE21"
+    },
+    {
+      "class": "group",
+      "id": "4BD8A786-90D0-48A0-9047-A435400C0F80"
+    },
+    {
+      "class": "bitmap",
+      "id": "DCD2D6B7-85F4-40D0-962C-512BC33845ED"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DE5F0238-89F4-4BEE-A1D3-EBB152BC56C4"
+    },
+    {
+      "class": "group",
+      "id": "039622EE-F52B-4ECB-A91F-788221D254F3"
+    },
+    {
+      "class": "text",
+      "id": "B956AF71-DA80-4B0A-8DA2-16B3E4FAC90A"
+    },
+    {
+      "class": "text",
+      "id": "D579257B-2C16-4D70-87E9-5F4F3D8869D5"
+    },
+    {
+      "class": "text",
+      "id": "9F6013B4-6EF1-4464-880D-C15271042F06"
+    },
+    {
+      "class": "text",
+      "id": "9C2EC2E5-F110-47BE-98A0-8244AFB17728"
+    },
+    {
+      "class": "text",
+      "id": "CEE3A9EC-690E-4546-A402-40B026446811"
+    },
+    {
+      "class": "text",
+      "id": "8068DDD5-8B92-4FAF-90A3-95C5EF39D095"
+    },
+    {
+      "class": "text",
+      "id": "E7E6817E-9064-4AA7-AF8E-7217F9508DAF"
+    },
+    {
+      "class": "text",
+      "id": "A4886052-2124-43DA-8760-B5513511A93D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C7E11BFF-E030-41E2-85AE-8ED90A972F28"
+    },
+    {
+      "class": "group",
+      "id": "8D96EA84-1BA1-43CE-8680-00DCCF736F48"
+    }
+  ],
+  "name": "Desktop",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

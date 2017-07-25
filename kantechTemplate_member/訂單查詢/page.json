@@ -1,0 +1,76 @@
+{
+  "_class": "page",
+  "do_objectID": "4198B4EB-ED42-48BE-A281-D2BE711FEE96",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -573,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "73F96F73-A5B8-4113-A1B0-D2844DACA3AF"
+    },
+    {
+      "class": "artboard",
+      "id": "76E2C7A1-BFAE-4F5D-B38C-9A78D60DD4A7"
+    },
+    {
+      "class": "artboard",
+      "id": "611CAF19-4C35-4F9F-9A79-5A3C5489BB38"
+    },
+    {
+      "class": "artboard",
+      "id": "022FBD6F-3C7B-411E-BF7A-E3633371CC51"
+    }
+  ],
+  "name": "訂單查詢",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -319,
+    "guides": [
+    ]
+  }
+}

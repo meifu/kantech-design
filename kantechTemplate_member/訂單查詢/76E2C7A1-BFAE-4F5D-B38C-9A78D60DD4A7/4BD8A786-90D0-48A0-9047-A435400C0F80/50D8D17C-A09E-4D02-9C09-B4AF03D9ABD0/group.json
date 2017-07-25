@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "50D8D17C-A09E-4D02-9C09-B4AF03D9ABD0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 393,
+    "width": 1341,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "34EA7C4B-2920-4BF4-9C0F-9B572BBF54BD"
+    },
+    {
+      "class": "group",
+      "id": "3908489B-273D-4EF0-ABFA-AD0EDDB53C5F"
+    },
+    {
+      "class": "text",
+      "id": "22DF1528-5935-463D-AB0A-AA51ABC034CD"
+    },
+    {
+      "class": "text",
+      "id": "8BFE8D83-B236-4415-A178-4DC19F7CA486"
+    },
+    {
+      "class": "text",
+      "id": "705E3056-2AAD-456B-AB5A-26F4B2A96EF2"
+    },
+    {
+      "class": "text",
+      "id": "D5073CF7-A0D6-43BD-9F89-D8667EFCFA08"
+    },
+    {
+      "class": "text",
+      "id": "2288D912-C802-44B3-9E8D-D255CED69785"
+    },
+    {
+      "class": "text",
+      "id": "2B848332-5660-4940-92D6-6F7C9B1EB47B"
+    },
+    {
+      "class": "text",
+      "id": "598472B0-EBF6-42A4-9858-8595EBC41744"
+    },
+    {
+      "class": "text",
+      "id": "ABB0DC60-C2DD-42FB-9E90-B8130127BD04"
+    },
+    {
+      "class": "text",
+      "id": "11DA5F65-58EB-48E7-AD53-F12BA74F7FFF"
+    },
+    {
+      "class": "text",
+      "id": "3DC0FB2A-B331-4EE1-95C6-0664C355D2F5"
+    },
+    {
+      "class": "text",
+      "id": "675DB160-BFF0-4889-989D-4DA0B3EB2EEE"
+    },
+    {
+      "class": "group",
+      "id": "2CD5DB43-FF83-45BC-8CBC-3B5FAB5B0C10"
+    },
+    {
+      "class": "text",
+      "id": "29DDAA1C-5301-4E69-B00B-5C655755A615"
+    },
+    {
+      "class": "text",
+      "id": "A1D1CA69-828A-46CA-BCC6-2108A5F077C8"
+    }
+  ],
+  "name": "Group 13",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
