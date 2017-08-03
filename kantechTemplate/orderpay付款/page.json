@@ -49,6 +49,58 @@
     {
       "class": "artboard",
       "id": "FA97F78D-EFE2-4BBC-B27E-C3A58A372FD7"
+    },
+    {
+      "class": "artboard",
+      "id": "4A7B6D14-9636-42A2-94E3-47E2E26227CD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7C88CEBA-4314-486B-A02C-F46C75908E16"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A8C6A96D-2464-4195-A194-E931010581B3"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E4A39312-C70F-4194-8766-3BE45524FA66"
+    },
+    {
+      "class": "text",
+      "id": "C881CAB1-6FFA-4102-908D-AF69DB04FD6B"
+    },
+    {
+      "class": "text",
+      "id": "6426CA1F-C1C3-46B2-B4E9-12440E8D2B0A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C81D8A1E-3646-4E39-8DE7-D3680AAD37A1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C98A008E-1F0D-4410-87FD-8C86708467F2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "45E90F94-C115-4517-A655-C8A57F304417"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B2B4D90C-556E-44A0-8D0D-80511EF3645A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0FEDC143-8B28-4BE6-B522-0E99FEED5AAE"
+    },
+    {
+      "class": "text",
+      "id": "2E2ED2F5-FD86-466D-BC36-6D00596135E0"
+    },
+    {
+      "class": "text",
+      "id": "9D0747D5-24E5-47A3-B54B-043359465822"
     }
   ],
   "name": "orderpay付款",

@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1645,
+    "height": 1800,
     "width": 360,
     "x": 1149,
     "y": -518
@@ -39,7 +39,8 @@
     "guides": [
       15,
       345,
-      180
+      180,
+      -310
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -50,10 +51,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "DD60CFCE-6F5B-425F-B06B-E13F05054C67"
-    },
     {
       "class": "text",
       "id": "D0F34698-F467-4946-9AEB-3B547F211689"
@@ -79,44 +76,12 @@
       "id": "26AE27D2-61B3-44CF-BE21-6B7B90AF9CEE"
     },
     {
-      "class": "shapeGroup",
-      "id": "6E009D7B-8E4C-44DE-8E06-9308A6EF37C4"
-    },
-    {
-      "class": "bitmap",
-      "id": "B8695AD1-9044-484F-8974-FE1AB06D666F"
-    },
-    {
       "class": "text",
-      "id": "9DD20423-8770-40CE-81B4-E9F60F130051"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "ACD76293-0102-43AD-B676-33E279687339"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "995A1FD2-0853-484A-8077-F6A9FBBD04CA"
+      "id": "505CC73D-FC22-4703-9830-B5E46BDF6AFB"
     },
     {
       "class": "symbolInstance",
-      "id": "37EB5F3C-3C29-46E7-81A2-52D2EBB7A642"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "FF35242F-AD50-4F6E-A329-55298CA90E56"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "20ABF4F5-95E0-4D31-9176-E4CF3D81B146"
-    },
-    {
-      "class": "group",
-      "id": "BD3499CE-C144-4566-A245-B6C488197692"
-    },
-    {
-      "class": "text",
-      "id": "41377714-0528-47B2-BC4D-914F617B802B"
+      "id": "BF83EC11-18B7-4578-BC26-810AC04E81E5"
     },
     {
       "class": "symbolInstance",
@@ -217,6 +182,14 @@
     {
       "class": "symbolInstance",
       "id": "4794DED7-55D5-4E95-9837-FAAAA28D0ADA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E239308E-EC5C-41DC-AF4A-ACD5A58C0079"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "39A86BAC-62E5-4421-B7E3-B41D180B10EA"
     }
   ],
   "name": "Mobile Portrait",

@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1245,
+    "height": 1224,
     "width": 768,
     "x": 230,
     "y": -651
@@ -32,24 +32,17 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
     "guides": [
       753,
       15,
-      384,
-      255,
-      271,
       497,
-      513,
-      284,
-      484,
-      84,
-      685,
-      567,
-      406.1451612903226
+      187,
+      203,
+      218
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -61,40 +54,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "06106A65-62B7-4591-A670-F1AD39381E8C"
-    },
-    {
       "class": "symbolInstance",
-      "id": "979DD401-1880-4B61-ABD3-C7A65C54A468"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "184DB748-7C56-4CD7-A283-E2C44B330636"
+      "id": "739235E1-BC66-4B54-8CAF-53D08B062320"
     },
     {
       "class": "group",
-      "id": "3F564C21-CB5E-4A38-B36C-1BD1262920F3"
+      "id": "310D0FF7-823A-4B14-BBAF-55BFC66726B1"
     },
     {
-      "class": "bitmap",
-      "id": "0161FDC5-AD7F-401C-9E55-77640968C18D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "E70F44ED-50D7-445F-8683-AD1CF85BFC95"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EB797E39-0613-49C4-8618-6B3CFFF40E4B"
-    },
-    {
-      "class": "group",
-      "id": "49127DCB-0B67-4A9C-9859-AB9F459537C6"
-    },
-    {
-      "class": "group",
-      "id": "98561506-1C90-4738-8998-4A38C1A39E44"
+      "class": "text",
+      "id": "62AE4564-9ECE-418B-9B22-EBA748D7180D"
     },
     {
       "class": "shapeGroup",
@@ -121,6 +90,10 @@
       "id": "8A491E61-B17D-4DFA-B8F2-8DF707550388"
     },
     {
+      "class": "text",
+      "id": "BB8FAA96-AC7E-4D45-9B20-99BD2302E108"
+    },
+    {
       "class": "shapeGroup",
       "id": "6DC71617-5145-43AC-9E57-8EB021140CA7"
     },
@@ -134,7 +107,11 @@
     },
     {
       "class": "text",
-      "id": "80DB4EE0-6683-4E95-9600-82E20C83DF3D"
+      "id": "891A0AC3-21FA-4111-A066-3B4246859F63"
+    },
+    {
+      "class": "text",
+      "id": "5B745396-9857-4420-922D-433B0388F106"
     },
     {
       "class": "text",
@@ -151,10 +128,6 @@
     {
       "class": "text",
       "id": "3351CC6D-8BD9-4AA2-8002-508EBB5A9AA4"
-    },
-    {
-      "class": "text",
-      "id": "CCF1FB1F-0266-4790-ADED-3642968530C3"
     },
     {
       "class": "text",
@@ -179,6 +152,18 @@
     {
       "class": "group",
       "id": "1712ABAB-E3E5-432E-94BC-C3863B6941B1"
+    },
+    {
+      "class": "text",
+      "id": "FCA8F0C5-FF6C-4544-A78D-573C45A69ECB"
+    },
+    {
+      "class": "text",
+      "id": "BF477F1B-4694-43C7-B1CF-3ED6F75EE7BE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "253B2877-1A7F-437B-9206-D361C50961AD"
     }
   ],
   "name": "Tablet Portrait",
@@ -200,7 +185,7 @@
     "guides": [
       50,
       1890,
-      77
+      86
     ]
   }
 }

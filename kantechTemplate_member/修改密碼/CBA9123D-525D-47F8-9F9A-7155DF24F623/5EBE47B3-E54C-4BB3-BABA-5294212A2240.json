@@ -14,8 +14,8 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 36,
-    "width": 330,
-    "x": 219,
+    "width": 535.3220993674801,
+    "x": 218.5373395469811,
     "y": 754
   },
   "horizontalSpacing": 0,
@@ -31,7 +31,7 @@
   "name": "Buttons / Primary",
   "nameIsFixed": false,
   "overrides": {
-    "CD6C78BC-230F-41C2-8041-829ECCA73478": "確認修改"
+    "CD6C78BC-230F-41C2-8041-829ECCA73478": "確認修改個人資料"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

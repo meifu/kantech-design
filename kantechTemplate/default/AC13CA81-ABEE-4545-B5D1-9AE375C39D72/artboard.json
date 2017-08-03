@@ -21,7 +21,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "6B76B388-2B45-4AC2-B534-7FBA5A1C9172",
-    "height": 3280,
+    "height": 3170,
     "width": 1920,
     "x": -2674,
     "y": 117
@@ -64,88 +64,52 @@
       "id": "1956F953-7573-44D5-BFA0-247148464DAF"
     },
     {
-      "class": "shapeGroup",
-      "id": "D96190FC-B141-46E0-A238-7715B1EEB8D0"
-    },
-    {
-      "class": "bitmap",
-      "id": "569FD419-72EB-494F-A530-C64EE8FA63A3"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "C394F3B4-353E-4603-86E6-64584596B93C"
-    },
-    {
-      "class": "group",
-      "id": "A30BCC79-9C1D-47BE-8B41-E742DD27790B"
-    },
-    {
-      "class": "text",
-      "id": "6E236897-8C0B-4FA4-A934-8230F502A11F"
-    },
-    {
-      "class": "text",
-      "id": "99647573-4E88-4B51-A875-F9937C0EA3F7"
-    },
-    {
-      "class": "text",
-      "id": "04223C91-7D85-46C1-BC30-C80A0BD663E1"
-    },
-    {
-      "class": "text",
-      "id": "A30FE57F-A282-4A3A-9CD5-C0FC5851F905"
-    },
-    {
-      "class": "text",
-      "id": "A462A556-03D0-4043-9F50-C803CE04E38C"
-    },
-    {
-      "class": "text",
-      "id": "3F300F49-7F59-49BB-96B0-A213C2390A06"
-    },
-    {
-      "class": "text",
-      "id": "90E77551-EA4B-44F9-B558-428A2E1B1E62"
-    },
-    {
-      "class": "text",
-      "id": "E929AED2-F62F-47A5-9954-DDE8536BAD24"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "457F5269-0E75-4E4B-9E71-C6E44536E097"
-    },
-    {
       "class": "group",
       "id": "2B020F44-DE9C-44E7-AD16-1BC46C9BD1E0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DB685EDE-B374-4DB3-9049-43BF8417929F"
     },
     {
       "class": "group",
       "id": "4BDDD939-BAF0-4D73-982C-D19E7CEE7835"
     },
     {
-      "class": "group",
-      "id": "43D52667-6B30-4717-9A47-BCB7B8BBB3CD"
+      "class": "symbolInstance",
+      "id": "833AE46C-E81B-4D55-ABC2-EF3E70503571"
     },
     {
       "class": "shapeGroup",
-      "id": "AD64C3D6-AD7C-420E-B28D-9F8FD3FEAAE5"
+      "id": "E99C4B4B-5235-4657-818B-7F64CB6CB5F9"
     },
     {
       "class": "shapeGroup",
-      "id": "1A4BFD41-3BB5-478E-9825-60EEBC41C948"
+      "id": "AB35499A-C977-4FB0-8C87-F1765E4E7793"
+    },
+    {
+      "class": "text",
+      "id": "BD12869B-C4C1-4333-BCF4-6A8A3011AE08"
     },
     {
       "class": "shapeGroup",
-      "id": "BCFD33BF-4362-4302-B323-656E79C9E23D"
+      "id": "25A1F688-7571-4262-B8BC-93593E13E68E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "65F1BAE3-8ECD-4836-9254-55073BF5EAA5"
+    },
+    {
+      "class": "text",
+      "id": "EE08AFD0-CB49-47CD-8DAA-B1F3F6B84F88"
+    },
+    {
+      "class": "text",
+      "id": "140C5194-F162-49DA-B2A3-1D040129FCEB"
+    },
+    {
+      "class": "text",
+      "id": "704F9D0B-71D8-403D-9009-9930BDC26DAB"
     },
     {
       "class": "symbolInstance",
-      "id": "833AE46C-E81B-4D55-ABC2-EF3E70503571"
+      "id": "51BE039C-1EFB-4269-B153-BB47E7A1C086"
     }
   ],
   "name": "Desktop HD",

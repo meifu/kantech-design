@@ -16,7 +16,7 @@
     "height": 36,
     "width": 165,
     "x": 15,
-    "y": 682.0078125
+    "y": 3049
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -31,7 +31,7 @@
   "name": "Buttons / Secondary",
   "nameIsFixed": false,
   "overrides": {
-    "1D8CA4F3-BF52-4455-A24B-752CEA4768E8": "上一步"
+    "1D8CA4F3-BF52-4455-A24B-752CEA4768E8": "繼續購物"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

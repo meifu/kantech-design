@@ -16,15 +16,15 @@
     "constrainProportions": false,
     "height": 705,
     "width": 3,
-    "x": 598,
-    "y": 171
+    "x": 748,
+    "y": 157
   },
   "hasClickThrough": false,
   "hasClippingMask": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 1,
   "layers": [
     {

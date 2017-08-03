@@ -44,11 +44,19 @@
     },
     {
       "class": "artboard",
+      "id": "FBB924A3-32EA-42AD-AF56-54219A7D0505"
+    },
+    {
+      "class": "artboard",
       "id": "AFD1B545-0269-4DC2-AA4D-0E724F0CC5B7"
     },
     {
       "class": "artboard",
       "id": "EB6D7C17-8E30-4313-A729-EEBF592753DA"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "B921A189-5C2B-4F6E-BFD5-AC068AB88E40"
     }
   ],
   "name": "orderdata運送資料",

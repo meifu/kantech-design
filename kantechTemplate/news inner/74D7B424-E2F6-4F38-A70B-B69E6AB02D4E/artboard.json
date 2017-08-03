@@ -32,7 +32,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -67,18 +67,6 @@
       "id": "8DEFAA12-4196-4182-AC29-3C6BCC27C218"
     },
     {
-      "class": "group",
-      "id": "9E4E938C-832B-44C8-9D1F-ED715BEBE695"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "F140ADF9-4A13-4718-954A-A50B1F9C0674"
-    },
-    {
-      "class": "bitmap",
-      "id": "CA21F878-2367-40F5-BDCF-DED9B1338884"
-    },
-    {
       "class": "text",
       "id": "53C50807-FD4F-4733-B350-45182B35EC9B"
     },
@@ -100,51 +88,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "BB5A060F-7F6D-4135-97AD-E24E83896B92"
-    },
-    {
-      "class": "group",
-      "id": "C9427125-6244-4B9A-8479-0D286F5FB13E"
-    },
-    {
-      "class": "text",
-      "id": "4B1C537B-8CA7-4766-BB7B-4A3626C0E3DC"
-    },
-    {
-      "class": "text",
-      "id": "22CA5368-53B4-4BB2-ADBE-5A6A5CFF757A"
-    },
-    {
-      "class": "text",
-      "id": "F677D59D-6441-465E-80EB-CB547E84A743"
-    },
-    {
-      "class": "text",
-      "id": "EA836ECA-71C0-48D9-AFCB-158F5B24BBCC"
-    },
-    {
-      "class": "text",
-      "id": "B8071F85-5430-479E-B762-963E53BFDBFD"
-    },
-    {
-      "class": "text",
-      "id": "8568A7E6-EFB9-4772-BEA4-03ACF0906904"
-    },
-    {
-      "class": "text",
-      "id": "692C8AEF-89EE-4475-924B-B54578A7598C"
-    },
-    {
-      "class": "text",
-      "id": "2E6EDF0A-335E-4879-B9FA-40352A9F190F"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "0DD4B16E-300A-444F-A477-31581431D4F9"
+      "id": "377334C7-CC71-46AA-BCBB-396E4346E12B"
     },
     {
       "class": "symbolInstance",
-      "id": "AB0431BD-D9D9-42DD-8D6D-CC5F72658AAC"
+      "id": "5E26712B-8922-41BD-95CA-47D411470577"
     }
   ],
   "name": "Desktop",

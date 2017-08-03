@@ -60,18 +60,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "616D2C06-C9AE-44F5-994C-C0A430CA8E7C"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "167ED39C-A20F-4B8B-8055-51AE873A24F4"
-    },
-    {
-      "class": "bitmap",
-      "id": "16012449-F6D1-4098-A8FA-34C52AFD76B1"
-    },
-    {
       "class": "text",
       "id": "43D6CF5A-7756-47B5-A6BC-DB06A06D9DD5"
     },
@@ -85,19 +73,11 @@
     },
     {
       "class": "symbolInstance",
-      "id": "7D6BD330-A75F-4D3B-9C28-99D4FCA83ED5"
+      "id": "61380C0A-46FD-4F34-AC33-DCF34F736A35"
     },
     {
       "class": "symbolInstance",
-      "id": "369B968A-8E43-40C0-9DFE-6B9872FED397"
-    },
-    {
-      "class": "group",
-      "id": "B5B7FFDB-7AED-46D7-B2B1-D5F1DDD2B5EB"
-    },
-    {
-      "class": "group",
-      "id": "31A18BF1-C0EF-427A-89B0-31F9C4667975"
+      "id": "6B2291D5-9505-48E3-B68E-CBFA2BEDFB41"
     }
   ],
   "name": "Tablet Portrait",

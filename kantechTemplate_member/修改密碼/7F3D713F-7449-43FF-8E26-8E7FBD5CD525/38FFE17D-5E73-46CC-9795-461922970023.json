@@ -16,7 +16,7 @@
     "height": 36,
     "width": 330,
     "x": 15,
-    "y": 1056
+    "y": 1115
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -31,7 +31,7 @@
   "name": "Buttons / Primary",
   "nameIsFixed": false,
   "overrides": {
-    "CD6C78BC-230F-41C2-8041-829ECCA73478": "確認修改"
+    "CD6C78BC-230F-41C2-8041-829ECCA73478": "確認修改密碼"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

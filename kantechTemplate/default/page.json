@@ -70,6 +70,34 @@
     {
       "class": "artboard",
       "id": "AB7889C7-77AA-4709-B345-BAC75CAEC9AB"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "7990EE9D-7744-4DD1-ACE5-131AF05F1F65"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2D9D2EF6-0BD0-4CC7-B377-A832AC5EA0CC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4C6300D1-ED79-43A9-809A-6CF746F69281"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "976CDD60-0268-4348-861D-3AEC82DC3DDF"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C11C07FD-03FC-40CA-A8D9-7DC5044CB7AA"
+    },
+    {
+      "class": "text",
+      "id": "DED4DF50-EFE5-4FC7-9558-FD276BCF1840"
+    },
+    {
+      "class": "text",
+      "id": "E5C07DA2-014C-4B1B-A295-B34845A32C8F"
     }
   ],
   "name": "default",

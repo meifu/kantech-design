@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 2270,
+    "height": 2325,
     "width": 360,
     "x": 1213,
     "y": -1062
@@ -32,7 +32,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -55,56 +55,16 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "2B7F0CC7-2D8E-4AAC-AAD6-07CD717421C5"
-    },
-    {
       "class": "text",
-      "id": "29D596A7-D919-4D31-8AF2-2512EDCFB29C"
+      "id": "6F7F9349-3740-4610-8069-C622241613ED"
     },
     {
-      "class": "shapeGroup",
-      "id": "E330D1D6-AD11-4F20-B808-A775558683F9"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "539117CF-847F-4752-AC9A-94F988910772"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "0A7B5733-CB8D-44BA-95AB-4E09DA04CC59"
+      "class": "symbolInstance",
+      "id": "79A8D43C-FA2C-4C40-B292-7B976C6AF21E"
     },
     {
       "class": "text",
       "id": "D259D8BB-5B83-4B15-B62F-CD90AC6B4F89"
-    },
-    {
-      "class": "bitmap",
-      "id": "DA1F1375-6916-4AA1-9344-A908073A295F"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "DF3C8A33-4865-45D9-8DF1-A7C7B0A3094D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "291593CC-2D89-4027-ADAA-536B724F9118"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "6C295EA4-8710-49CA-BB42-D359CB4B7682"
-    },
-    {
-      "class": "text",
-      "id": "FB2E01BD-2746-4178-A224-51C013F0EF8B"
-    },
-    {
-      "class": "group",
-      "id": "A52E39B7-D583-4B1B-BA19-3A74A331E64B"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "D4A94308-CC4C-4284-AA8E-4940364C9BBA"
     },
     {
       "class": "text",
@@ -297,6 +257,14 @@
     {
       "class": "group",
       "id": "9F9BA6EB-EB58-45F5-94AD-75621C42CCA4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A1F4FA9A-8396-4FD8-B6C8-12C47288063F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6BD1EBB3-783F-41D9-A890-5EE674D34FD0"
     }
   ],
   "name": "Mobile Portrait",

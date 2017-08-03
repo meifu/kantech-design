@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 800,
+    "height": 770,
     "width": 768,
     "x": 199,
     "y": -518
@@ -39,7 +39,11 @@
     "guides": [
       15,
       753,
-      386
+      386,
+      187,
+      203,
+      497,
+      218
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -50,30 +54,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "040E2BF0-DAC0-416C-A4C6-50B9E9A3619A"
-    },
-    {
-      "class": "group",
-      "id": "FF3121F5-1A69-4575-BF90-C54993918982"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "8C145AFB-BF7D-48B9-A644-A929CE86EFE8"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "9652B066-9200-4595-86ED-0D2B35673F69"
-    },
-    {
-      "class": "group",
-      "id": "BD1A85ED-29B8-4C8B-B59E-1D5FB864E60E"
-    },
-    {
-      "class": "bitmap",
-      "id": "952427E6-51DB-46F9-9AC1-F2F6E3F37A45"
-    },
     {
       "class": "shapeGroup",
       "id": "50D40218-AFF0-4886-8431-C0E70A1A10D9"
@@ -175,24 +155,24 @@
       "id": "D3FB15CF-616F-449F-865B-FAB65515AD02"
     },
     {
-      "class": "symbolInstance",
-      "id": "22227CE4-8734-444A-A8F0-E80CB0119C67"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "116ACB49-77CD-4D89-9163-2E208F4E9EB2"
-    },
-    {
-      "class": "group",
-      "id": "3B3A2121-E873-4292-B883-538366444894"
-    },
-    {
       "class": "text",
       "id": "E838E184-0893-4427-ABA7-17DA4053818A"
     },
     {
       "class": "symbolInstance",
       "id": "AF06F1D1-53A3-43EB-A28D-A27CF9878467"
+    },
+    {
+      "class": "group",
+      "id": "A47FEBEE-638B-43CF-82E1-B0FEA3E6D869"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "43E953A2-D47D-4825-A1D2-327BFA4CFBF4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8F696A12-0FDB-4C43-995A-57BE5205468F"
     }
   ],
   "name": "Tablet Portrait",

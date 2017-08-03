@@ -50,30 +50,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "1705C1EA-C5F9-452C-B767-C02E48E23928"
-    },
-    {
-      "class": "bitmap",
-      "id": "C27FD736-028D-4A6D-8967-7DFE71C5B6C2"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "8286711B-5B1F-441F-BAB8-B7B7F76DA627"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0364D3A8-E8C3-44A4-9BE2-CD37AE9A3E98"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "73614339-9C08-48D5-82A6-1C2DFAB01C56"
-    },
-    {
-      "class": "text",
-      "id": "A398A93C-142C-4702-B151-F1CB02397D62"
-    },
-    {
       "class": "text",
       "id": "2A53F943-9C99-4E9D-AEE1-8DA2FCA6E45A"
     },
@@ -128,6 +104,10 @@
     {
       "class": "text",
       "id": "10FA96AB-2DD4-42B1-AB87-AF044AFCD435"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B05CE4E8-F31F-4272-B004-F0E15724E3B7"
     }
   ],
   "name": "Mobile Portrait",

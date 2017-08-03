@@ -51,7 +51,27 @@
   "layers": [
     {
       "class": "group",
-      "id": "7A29B1D9-2797-464E-8F7D-61A672771653"
+      "id": "9865BD41-B171-4AD7-A6DD-9414C4631A99"
+    },
+    {
+      "class": "group",
+      "id": "B412109F-B942-4213-B2FC-A59622F5AC6D"
+    },
+    {
+      "class": "text",
+      "id": "5AAB2879-CA74-4421-9D9E-60741E5ED3BA"
+    },
+    {
+      "class": "group",
+      "id": "643811F2-ED40-4CC1-ABDB-27E4E2800F4D"
+    },
+    {
+      "class": "group",
+      "id": "8B320245-3E82-452D-A966-69E570FEF647"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "79A8F129-167B-408B-BFB8-EF430E27F752"
     },
     {
       "class": "shapeGroup",

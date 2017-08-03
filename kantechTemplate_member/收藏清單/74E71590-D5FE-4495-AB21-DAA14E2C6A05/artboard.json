@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1200,
+    "height": 1257,
     "width": 360,
     "x": 1216,
     "y": -651
@@ -32,7 +32,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,36 +53,12 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "8337080C-0449-4FC2-847B-8F9F0FE3ECAA"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "58E0766C-E567-4F31-9572-35619CDADCD9"
-    },
-    {
-      "class": "bitmap",
-      "id": "41816F07-970D-48F0-81DD-918A9061DDDE"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "BBBFBB0A-D3AB-40DA-8106-3E93B3EE74F0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "35A0CA1E-2718-4C55-AEB5-10F4812E5920"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "A98684C4-40F1-4DA8-B2E9-A5051CCE916C"
-    },
-    {
       "class": "text",
-      "id": "8B81B2D7-CCF3-4548-B647-1109DF3CF3AA"
+      "id": "1BE85CB8-5FAB-4790-BA62-EBFD9AE96A3F"
     },
     {
-      "class": "group",
-      "id": "C9FE0B02-A188-446A-BC8A-CDB3E5B302CA"
+      "class": "symbolInstance",
+      "id": "64FD417F-B042-48EF-A091-D48791834435"
     },
     {
       "class": "shapeGroup",
@@ -98,7 +74,11 @@
     },
     {
       "class": "text",
-      "id": "495F7314-2369-4ABD-8D5A-3BE2B307E6CD"
+      "id": "E4254AC0-44CD-4135-A893-994A59E18BDE"
+    },
+    {
+      "class": "text",
+      "id": "BF3FB7A7-800C-46F4-8E45-2C158A9D68A9"
     },
     {
       "class": "group",
@@ -125,10 +105,6 @@
       "id": "730FC265-18C2-47EF-AFF5-B34F69245692"
     },
     {
-      "class": "text",
-      "id": "2E014440-BEC9-46E0-BB65-53A26ADB8CEA"
-    },
-    {
       "class": "group",
       "id": "BD3FE1FF-8078-4365-8662-1378A3620995"
     },
@@ -153,10 +129,6 @@
       "id": "F85C7E00-BD09-46E1-AAF1-7893EDEFE1C5"
     },
     {
-      "class": "text",
-      "id": "C3AE4537-B93A-4D94-ADC2-650ADCC9E45A"
-    },
-    {
       "class": "group",
       "id": "C33CBB44-20BE-4A84-A6B6-387B177FED63"
     },
@@ -167,6 +139,30 @@
     {
       "class": "text",
       "id": "0B759757-2AE8-4D99-8E67-1D7730AB855F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1E47D242-126D-4FAC-B6EC-C14D7C025282"
+    },
+    {
+      "class": "text",
+      "id": "C20B2331-4B41-484F-BD5D-8644D8959B5F"
+    },
+    {
+      "class": "text",
+      "id": "50A569B4-9FF7-48AB-8EF8-FFE704AE690A"
+    },
+    {
+      "class": "text",
+      "id": "306C4B38-F65D-403B-9F0C-9EFB1D973C8E"
+    },
+    {
+      "class": "text",
+      "id": "8B955290-58FC-4FC0-9A28-4D832FA7C4FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "76948639-1392-40EE-B063-BD25CCD5F7C4"
     }
   ],
   "name": "Mobile Portrait",

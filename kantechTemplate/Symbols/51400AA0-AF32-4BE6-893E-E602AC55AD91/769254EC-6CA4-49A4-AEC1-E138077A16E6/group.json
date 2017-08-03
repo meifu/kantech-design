@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "769254EC-6CA4-49A4-AEC1-E138077A16E6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 393,
+    "width": 1323,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "12C9BBB8-8451-45A4-B9F9-3499801C5498"
+    },
+    {
+      "class": "group",
+      "id": "36A165DB-54A3-4889-8967-6FD5AC8B0D5B"
+    },
+    {
+      "class": "text",
+      "id": "76A7E88A-E25F-4AAA-B4E2-8A81DB1BC02A"
+    },
+    {
+      "class": "text",
+      "id": "23D39C9D-F1FE-4D75-BDDC-F2899D3EA709"
+    },
+    {
+      "class": "text",
+      "id": "D13160C6-FED5-48EB-BB17-A6BCCCDC3C28"
+    },
+    {
+      "class": "text",
+      "id": "76934C12-33FF-4D21-9A67-87112C2B52D2"
+    },
+    {
+      "class": "text",
+      "id": "59EC7A40-ABCA-4125-869D-F8D8F68C60E6"
+    },
+    {
+      "class": "text",
+      "id": "3000AE51-F391-406C-8838-FD4CE359ABF1"
+    },
+    {
+      "class": "text",
+      "id": "359EED96-A8F5-43FC-9AD9-22BB51A77C84"
+    },
+    {
+      "class": "text",
+      "id": "FB22FC8C-CC41-4C0E-AE92-942CAAFB7B02"
+    },
+    {
+      "class": "text",
+      "id": "3E92FBDC-A206-492C-92CE-4D12FF3D38F6"
+    },
+    {
+      "class": "text",
+      "id": "24DE651F-9C27-40B4-A4E8-94025D16FCD7"
+    },
+    {
+      "class": "text",
+      "id": "2E5F8DE5-8BF4-4D70-A2AB-5D7DCCEDD5E7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "529EC47C-4AE2-47E2-B6FE-C5010E0346F3"
+    },
+    {
+      "class": "text",
+      "id": "0D374B94-14A9-4DDF-8B19-8BE9EF139A01"
+    },
+    {
+      "class": "text",
+      "id": "9B387EEB-F0A9-4934-B4AA-517209A3C392"
+    }
+  ],
+  "name": "Group 13",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -3,110 +3,7 @@
   "attributedString": {
     "_class": "MSAttributedString",
     "archivedAttributedString": {
-      "_archive": [
-        {
-          "$archiver": "NSKeyedArchiver",
-          "$objects": [
-            "$null",
-            {
-              "$class": {
-                "UID": 14
-              },
-              "NSAttributes": {
-                "UID": 3
-              },
-              "NSString": {
-                "UID": 2
-              }
-            },
-            "歡樂開學紅利金",
-            {
-              "$class": {
-                "UID": 13
-              },
-              "NS.keys": [
-                {
-                  "UID": 4
-                }
-              ],
-              "NS.objects": [
-                {
-                  "UID": 5
-                }
-              ]
-            },
-            "MSAttributedStringFontAttribute",
-            {
-              "$class": {
-                "UID": 12
-              },
-              "NSFontDescriptorAttributes": {
-                "UID": 6
-              }
-            },
-            {
-              "$class": {
-                "UID": 11
-              },
-              "NS.keys": [
-                {
-                  "UID": 7
-                },
-                {
-                  "UID": 8
-                }
-              ],
-              "NS.objects": [
-                {
-                  "UID": 9
-                },
-                {
-                  "UID": 10
-                }
-              ]
-            },
-            "NSFontSizeAttribute",
-            "NSFontNameAttribute",
-            12,
-            "PingFangTC-Regular",
-            {
-              "$classes": [
-                "NSMutableDictionary",
-                "NSDictionary",
-                "NSObject"
-              ],
-              "$classname": "NSMutableDictionary"
-            },
-            {
-              "$classes": [
-                "NSFontDescriptor",
-                "NSObject"
-              ],
-              "$classname": "NSFontDescriptor"
-            },
-            {
-              "$classes": [
-                "NSDictionary",
-                "NSObject"
-              ],
-              "$classname": "NSDictionary"
-            },
-            {
-              "$classes": [
-                "NSAttributedString",
-                "NSObject"
-              ],
-              "$classname": "NSAttributedString"
-            }
-          ],
-          "$top": {
-            "root": {
-              "UID": 1
-            }
-          },
-          "$version": 100000
-        }
-      ]
+      "_archive": "YnBsaXN0MDDUAQIDBAUGOjtYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QDwcIDxAYGR0lJicoKTA0NlUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgA6AA2drYWoClYtbeH0FUimR0dMREgoTFRdXTlMua2V5c1pOUy5vYmplY3RzoRSABKEWgAWADV8QH01TQXR0cmlidXRlZFN0cmluZ0ZvbnRBdHRyaWJ1dGXSChobHF8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgAyABtMREgoeISSiHyCAB4AIoiIjgAmACoALXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCgAAAAAAABfEBJQaW5nRmFuZ1RDLVJlZ3VsYXLSKissLVokY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMsLi9cTlNEaWN0aW9uYXJ5WE5TT2JqZWN00iorMTJfEBBOU0ZvbnREZXNjcmlwdG9yojMvXxAQTlNGb250RGVzY3JpcHRvctIqKy41oi4v0iorNzhfEBJOU0F0dHJpYnV0ZWRTdHJpbmeiOS9fEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRPD1Ucm9vdIABAAgAEQAaACMALQAyADcASQBPAFYAXwBmAHMAdQB3AHkAiACPAJcAogCkAKYAqACqAKwAzgDTAPAA8gD0APsA/gEAAQIBBQEHAQkBCwEhATcBQAFVAVoBZQFuAYQBiAGVAZ4BowG2AbkBzAHRAdQB2QHuAfECBgIYAhsCIAAAAAAAAAIBAAAAAAAAAD4AAAAAAAAAAAAAAAAAAAIi"
     }
   },
   "automaticallyDrawOnUnderlyingPath": false,
@@ -126,8 +23,8 @@
     "constrainProportions": false,
     "height": 17,
     "width": 84,
-    "x": 345,
-    "y": 320
+    "x": 457,
+    "y": 277
   },
   "glyphBounds": "{{0, 3}, {84, 12}}",
   "heightIsClipped": false,
@@ -152,68 +49,7 @@
       "_class": "textStyle",
       "encodedAttributes": {
         "MSAttributedStringFontAttribute": {
-          "_archive": [
-            {
-              "$archiver": "NSKeyedArchiver",
-              "$objects": [
-                "$null",
-                {
-                  "$class": {
-                    "UID": 8
-                  },
-                  "NSFontDescriptorAttributes": {
-                    "UID": 2
-                  }
-                },
-                {
-                  "$class": {
-                    "UID": 7
-                  },
-                  "NS.keys": [
-                    {
-                      "UID": 3
-                    },
-                    {
-                      "UID": 4
-                    }
-                  ],
-                  "NS.objects": [
-                    {
-                      "UID": 5
-                    },
-                    {
-                      "UID": 6
-                    }
-                  ]
-                },
-                "NSFontSizeAttribute",
-                "NSFontNameAttribute",
-                12,
-                "PingFangTC-Regular",
-                {
-                  "$classes": [
-                    "NSMutableDictionary",
-                    "NSDictionary",
-                    "NSObject"
-                  ],
-                  "$classname": "NSMutableDictionary"
-                },
-                {
-                  "$classes": [
-                    "NSFontDescriptor",
-                    "NSObject"
-                  ],
-                  "$classname": "NSFontDescriptor"
-                }
-              ],
-              "$top": {
-                "root": {
-                  "UID": 1
-                }
-              },
-              "$version": 100000
-            }
-          ]
+          "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAKAAAAAAAAF8QElBpbmdGYW5nVEMtUmVndWxhctIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDoAO0A+AEBARcBGwEoATEBNgFJAUwBXwFxAXQBeQAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF7"
         }
       }
     }

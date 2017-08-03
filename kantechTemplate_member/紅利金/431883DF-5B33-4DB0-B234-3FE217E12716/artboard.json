@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 800,
+    "height": 693,
     "width": 768,
     "x": 199,
     "y": -518
@@ -39,7 +39,11 @@
     "guides": [
       15,
       753,
-      386
+      386,
+      188,
+      203,
+      478,
+      218
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -50,30 +54,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "2167303C-AC9E-4879-A6B0-C8C580C09C05"
-    },
-    {
-      "class": "group",
-      "id": "BBF9076A-1B92-4F7D-8C7B-A742933E9806"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "95A1D8AB-1023-4C0E-B84F-8D3F87CA7E53"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7A734D43-1850-4447-ACA4-1B59497B5331"
-    },
-    {
-      "class": "group",
-      "id": "BAC76CB8-8953-44C8-93AC-097C398AB3E2"
-    },
-    {
-      "class": "bitmap",
-      "id": "FBA22870-6E87-4891-B957-16D2C9227326"
-    },
     {
       "class": "shapeGroup",
       "id": "EADCF091-F0C0-4DE3-B3AB-1C8DE63B0C7A"
@@ -187,24 +167,24 @@
       "id": "1F9EE558-8F6E-447D-AF05-6E22DAE38DE0"
     },
     {
-      "class": "symbolInstance",
-      "id": "020C6B95-438C-466D-92C2-1B81DB40CBC4"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A3AEBA59-A7DD-438F-8A8D-0F406BEFDAD2"
-    },
-    {
-      "class": "group",
-      "id": "C5BD61EF-8188-4C9A-B2F3-3CD3865AB006"
-    },
-    {
       "class": "text",
       "id": "5329B0AF-7D6A-4F5F-BD1C-2479677FE6E9"
     },
     {
       "class": "text",
       "id": "88F30D6F-5F65-4898-8402-16844562B09F"
+    },
+    {
+      "class": "group",
+      "id": "471A0CD7-881C-441D-94D5-7FB0A2E061F7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8E611720-DBDA-465C-8A8D-843DB34130EB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B651EED3-4FDA-4C50-ACFB-9C76AB60D103"
     }
   ],
   "name": "Tablet Portrait",
@@ -224,8 +204,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
-      87,
-      168
+      87
     ]
   }
 }

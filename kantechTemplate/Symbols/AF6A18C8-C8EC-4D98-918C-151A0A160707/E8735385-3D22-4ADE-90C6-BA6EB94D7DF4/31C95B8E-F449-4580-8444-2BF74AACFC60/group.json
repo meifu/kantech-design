@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "do_objectID": "31C95B8E-F449-4580-8444-2BF74AACFC60",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 393,
+    "width": 1977,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "612B4812-6CD0-4B4F-ACC5-5C654E308E4A"
+    },
+    {
+      "class": "group",
+      "id": "F0227180-2313-48B2-A182-C56604F681E9"
+    },
+    {
+      "class": "text",
+      "id": "946E0017-4E05-4544-B705-CD1A58D7A389"
+    },
+    {
+      "class": "text",
+      "id": "0A659B31-74F3-44EF-8D0C-BFCF7D23B177"
+    },
+    {
+      "class": "text",
+      "id": "983EF6AD-5D99-490C-B82D-9BDE554AB0A8"
+    },
+    {
+      "class": "text",
+      "id": "E0114ECC-F64D-4BD4-8D2A-11F3FE25990E"
+    },
+    {
+      "class": "text",
+      "id": "BAE964DC-9C4C-4D37-A33F-6CB1C99FFA9A"
+    },
+    {
+      "class": "text",
+      "id": "6324B027-3DCB-4352-AB5A-E87AC37D7C1D"
+    },
+    {
+      "class": "text",
+      "id": "1FFE79DC-A6A1-4192-A9D3-9516D299DF1C"
+    },
+    {
+      "class": "text",
+      "id": "9A4C8BC6-150F-4DE7-9CEB-DAA1AA5F5C78"
+    },
+    {
+      "class": "text",
+      "id": "6159DABB-EF71-4C5D-AF5B-F228D94BD5E9"
+    },
+    {
+      "class": "text",
+      "id": "31D422B4-6F31-47E8-979C-C6C2E1FF38E1"
+    },
+    {
+      "class": "text",
+      "id": "3E235840-5A94-4CEF-BCCB-23202B93BF0F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BA2D58A3-5772-47EE-95FA-61F4B6758DB3"
+    },
+    {
+      "class": "text",
+      "id": "429395CF-0C31-4242-9841-E923D796E619"
+    },
+    {
+      "class": "text",
+      "id": "6AB5C945-E2A7-437D-AD07-120656379075"
+    }
+  ],
+  "name": "Group 13",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

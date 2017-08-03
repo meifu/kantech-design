@@ -32,7 +32,7 @@
     "thickGridTimes": 10
   },
   "hasBackgroundColor": true,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -53,34 +53,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "F57F144B-5B3C-4670-934D-022F4DDB48BB"
-    },
-    {
-      "class": "bitmap",
-      "id": "70F9DCB3-A0CF-4B3F-881D-D974F6ACA363"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "7F53E424-9B5E-4A4B-A5BE-4102FB0C8D9E"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "B3519CA8-A2A6-4577-B137-675A82593B12"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "D8C5482A-4617-4CA5-AFC1-2180D791C11F"
-    },
-    {
-      "class": "text",
-      "id": "37397D3E-9DA6-4FCC-830F-ECC2F5D0DA83"
-    },
-    {
-      "class": "group",
-      "id": "F393EEA9-63A4-4C08-8ABD-EFEA126F5079"
-    },
-    {
       "class": "text",
       "id": "7880B835-EF00-433F-B8D7-719A60F3F0FA"
     },
@@ -99,6 +71,14 @@
     {
       "class": "text",
       "id": "84BFCEB2-3AB5-40E5-B35E-CB87AE7E2719"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "61E3ACC6-9FA5-4F48-A038-E0FF4467F3E5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "06C105C7-6614-4562-BBE2-00DA852DB569"
     }
   ],
   "name": "Mobile Portrait",

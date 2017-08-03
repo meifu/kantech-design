@@ -1,0 +1,97 @@
+{
+  "_class": "group",
+  "do_objectID": "2513D623-FF93-4D59-BE43-47879795AFE6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 355,
+    "width": 360,
+    "x": 207,
+    "y": 676
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B8F2D535-90BB-462B-ACA9-B671D13804C5"
+    },
+    {
+      "class": "text",
+      "id": "479202AB-19C9-455E-BF1F-869AC1418AB7"
+    },
+    {
+      "class": "text",
+      "id": "49353DD6-9CDE-4EED-BFB0-128DD5789109"
+    },
+    {
+      "class": "text",
+      "id": "56D22985-6BCF-4226-B681-C06D821424C9"
+    },
+    {
+      "class": "text",
+      "id": "6C549FC7-069B-4E09-95B6-AC35439C2F70"
+    },
+    {
+      "class": "text",
+      "id": "7E69E5FA-2A1A-4EF8-894F-4B0ABB0B0F8A"
+    },
+    {
+      "class": "text",
+      "id": "C7A4A6A4-86C5-4F7B-8DE6-44A48F1E373A"
+    },
+    {
+      "class": "text",
+      "id": "B304E8E0-81CD-47DD-A851-4D591E2222A2"
+    },
+    {
+      "class": "text",
+      "id": "BEBF4629-631E-408D-A66F-D8E44037E89D"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E2FEA195-3275-49B0-B2CC-B6985BAE6F59"
+    },
+    {
+      "class": "text",
+      "id": "AFE91CA4-8DA7-48FA-9A09-6E7263C16231"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9067FA73-5D8D-40FD-AC88-3364ACA4B66B"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8F9D66DC-7C88-4D2E-BC39-31F532AC67B2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C6B8C81A-5FDE-469E-A0CD-D8A3A615B1E8"
+    }
+  ],
+  "name": "Group 16",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1960,
+    "height": 2185,
     "width": 360,
     "x": 1084,
     "y": -500
@@ -54,35 +54,27 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "CDDDB84D-FF41-4031-A2CD-1E1A8DE634F6"
+      "id": "E75C76A0-0E29-4930-89C7-B3935F61D1DB"
     },
     {
       "class": "text",
-      "id": "788D825A-4818-4590-97FE-5C48D7742987"
+      "id": "0BCB5DDA-63EB-4856-B67A-4C914A267E99"
     },
     {
-      "class": "bitmap",
-      "id": "F34FE881-E8F2-4519-9277-8473E24DE0B4"
+      "class": "text",
+      "id": "71038527-DAA0-4DE4-BBB2-CE36EAC95054"
     },
     {
-      "class": "symbolInstance",
-      "id": "E0EC1656-0E0B-4EDA-BE3A-C05D27C77B78"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0BE3413B-877B-438E-BB9B-A7D54C62DEF2"
+      "class": "text",
+      "id": "58C9C340-4BA6-44ED-94DD-4DE0BED7AD6E"
     },
     {
       "class": "shapeGroup",
-      "id": "93D376B9-FA93-45DF-A9AF-917EE985ED06"
+      "id": "F64B3FC2-1FF2-4F82-B252-57F209CD8C22"
     },
     {
-      "class": "text",
-      "id": "377688C8-0648-41B9-9F85-B012F4FFF084"
-    },
-    {
-      "class": "group",
-      "id": "9FD9B5AC-FBEE-4066-8B5B-BE853C7403AA"
+      "class": "shapeGroup",
+      "id": "E90E073A-4994-408C-8453-B08642E24F9B"
     },
     {
       "class": "symbolInstance",
@@ -90,31 +82,11 @@
     },
     {
       "class": "text",
-      "id": "35BA0E5E-0209-4849-97A7-E151C3681635"
-    },
-    {
-      "class": "text",
-      "id": "3AF13953-F5AB-419F-8841-41C261F7411B"
-    },
-    {
-      "class": "text",
       "id": "B31E6447-DFEA-430D-AF57-CEE16CD5D842"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "D59DE758-992A-4339-9F56-9A0D18E0E66A"
     },
     {
       "class": "symbolInstance",
       "id": "E4A78BB0-FB75-4452-8FAB-3A770ABF2024"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "B507A5CD-535E-452E-955F-562D48A1952C"
-    },
-    {
-      "class": "text",
-      "id": "6675C7AD-1268-411A-A16D-C9E30621E978"
     },
     {
       "class": "text",
@@ -127,10 +99,6 @@
     {
       "class": "text",
       "id": "4483D004-32A0-449F-9B8B-006D6ADAF4FC"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "4ABEE3C2-74C5-486E-B876-CD8E5DB5189E"
     },
     {
       "class": "symbolInstance",
@@ -198,11 +166,83 @@
     },
     {
       "class": "shapeGroup",
-      "id": "1ECCECA7-CDBE-4E14-9C8D-C3AF1B72CC39"
+      "id": "466EEF9B-7B1C-4609-84B6-C8FA1C95B824"
     },
     {
       "class": "text",
-      "id": "E455A158-64D1-4B51-BCDF-04EE638ACB88"
+      "id": "93427DE1-EB99-40C2-BACE-0680C3814ED4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9DF1FA57-157E-4044-82E9-2391CC3B8F44"
+    },
+    {
+      "class": "text",
+      "id": "CD32DDF1-0FFC-4FD6-8140-1969D174F793"
+    },
+    {
+      "class": "text",
+      "id": "F5D8381E-0B72-4C4C-A7AF-EF23A4F94472"
+    },
+    {
+      "class": "text",
+      "id": "0CCCCC19-298B-4F90-BDA0-1806BE4A51F0"
+    },
+    {
+      "class": "text",
+      "id": "E5FCB5B6-FD35-48A4-8085-B395AC67C006"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "85EBFF90-3E41-4B17-AEED-3EEC5DE02FA0"
+    },
+    {
+      "class": "text",
+      "id": "E423EF3C-4FEB-4DBD-BB50-8CA85443FDBA"
+    },
+    {
+      "class": "text",
+      "id": "C3137326-D9B3-4096-B0E9-D52A20C1BEB1"
+    },
+    {
+      "class": "text",
+      "id": "01730D28-243A-48F9-80A5-891535616F2F"
+    },
+    {
+      "class": "text",
+      "id": "FD1719CA-34D6-4ED8-B80C-31AA6C538498"
+    },
+    {
+      "class": "text",
+      "id": "1C86EF73-6EE1-4B82-87F4-17799010D1F3"
+    },
+    {
+      "class": "text",
+      "id": "00853EEF-A818-4362-8A87-37EF7E3ECD96"
+    },
+    {
+      "class": "text",
+      "id": "1A78D0F9-2048-4922-8AEA-CF92578F68DF"
+    },
+    {
+      "class": "text",
+      "id": "B71A04F1-E5ED-4DB0-99B6-DAF6547B7E8F"
+    },
+    {
+      "class": "text",
+      "id": "F32B53E5-7D87-4858-ABED-0AB18D43E63F"
+    },
+    {
+      "class": "text",
+      "id": "AE2862F6-0BC4-433F-92AC-ACC3378179FD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B8911026-3D6C-435E-BCBE-86837BF8BF9B"
+    },
+    {
+      "class": "group",
+      "id": "59426F8E-9439-4CA1-B242-215EB8B86140"
     }
   ],
   "name": "Mobile Portrait",

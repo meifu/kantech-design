@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 3280,
+    "height": 3170,
     "width": 1200,
     "x": -669,
     "y": 122
@@ -63,36 +63,52 @@
       "id": "57BAEE40-34B9-43CE-8AB1-395F91E21E4B"
     },
     {
-      "class": "group",
-      "id": "2C151BDB-7982-4A4A-BA78-C49792A35903"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "3FE870BE-BDBB-4C35-97AE-C8D2C13F45B4"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "64FEE3F7-C11F-4345-8E75-AAFC35AF7F95"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "A3A8ADED-DBF2-42A0-A3E2-57D7D8452F83"
+      "class": "bitmap",
+      "id": "5F86EBED-3E77-4CFA-BC88-6027E7AE03D2"
     },
     {
       "class": "group",
-      "id": "B4E6E025-B2B6-454A-8163-EF6F431D49BD"
+      "id": "435A764A-8D93-49D3-8B29-3675D0B567AA"
     },
     {
       "class": "group",
       "id": "74395591-8874-48DF-84A4-0DC36AA83F6A"
     },
     {
-      "class": "symbolInstance",
-      "id": "513EB7D7-161A-41D9-9370-4D27F4B42188"
-    },
-    {
       "class": "group",
       "id": "CF0E658C-1DDE-4D23-9B75-4D15C034CD42"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "4C89C3CC-E5AB-4557-BF53-C1D6C971915A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3546C85F-B39A-4EFE-8448-24C88403D2B0"
+    },
+    {
+      "class": "text",
+      "id": "18623999-8752-4C65-BA9E-06176F9489B0"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "AACF3FE7-1AA5-4178-A75C-2DF1DD98ED61"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0465EE08-0450-49DD-A4DE-272EEAD2ED58"
+    },
+    {
+      "class": "text",
+      "id": "B945234F-6025-4305-840F-5654BCC90755"
+    },
+    {
+      "class": "text",
+      "id": "798F2580-6E37-46D3-9EBC-40D3545DD7E9"
+    },
+    {
+      "class": "text",
+      "id": "D8A0725B-F65E-43F4-830D-0158753E6F50"
     },
     {
       "class": "symbolInstance",
@@ -101,6 +117,10 @@
     {
       "class": "symbolInstance",
       "id": "B1A3102F-7AAC-46E1-A4C3-513B0E78FD3C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D8FF0EC3-0A1F-4DFE-A7C5-A33391DAF09F"
     }
   ],
   "name": "Desktop",

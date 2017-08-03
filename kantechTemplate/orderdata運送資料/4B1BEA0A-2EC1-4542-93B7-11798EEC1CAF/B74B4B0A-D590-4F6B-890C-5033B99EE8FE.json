@@ -16,7 +16,7 @@
     "height": 36,
     "width": 331,
     "x": 15,
-    "y": 935
+    "y": 1062
   },
   "horizontalSpacing": 0,
   "isFlippedHorizontal": false,
@@ -31,7 +31,7 @@
   "name": "Select / Select",
   "nameIsFixed": false,
   "overrides": {
-    "7B0121C7-90B9-42DB-BB0D-D4453B9F3C90": "請選擇載具"
+    "7B0121C7-90B9-42DB-BB0D-D4453B9F3C90": "手機條碼"
   },
   "resizingConstraint": 63,
   "resizingType": 0,

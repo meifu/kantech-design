@@ -42,8 +42,11 @@
       1185,
       570,
       630,
-      239,
-      962
+      962,
+      297,
+      313,
+      749,
+      328
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -56,15 +59,15 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "EBD6C624-CDBD-46BB-B1AB-0A3E10F08C90"
-    },
-    {
-      "class": "shapeGroup",
       "id": "F89E355C-3A83-4BF8-826E-D9062F7832E6"
     },
     {
-      "class": "shapeGroup",
-      "id": "8A2D59D6-4C97-4D0B-A973-147401A637F7"
+      "class": "text",
+      "id": "1C0B75E5-2A1F-459A-98E1-348B4EDBAC51"
+    },
+    {
+      "class": "group",
+      "id": "2CD26AEC-7139-41F4-8F19-E8D399B3B6DC"
     },
     {
       "class": "shapeGroup",
@@ -97,10 +100,6 @@
     {
       "class": "shapeGroup",
       "id": "25C5FBF9-73B9-4628-892B-1CFA318C47DD"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "7B8F33CF-DBFE-4683-8C56-D495D4CEA611"
     },
     {
       "class": "text",
@@ -227,64 +226,12 @@
       "id": "340DE180-AEF8-4A6C-B077-7E0D0B1DA35C"
     },
     {
-      "class": "group",
-      "id": "C2A86418-8E98-4F4B-98BD-CC101B4BAC6A"
-    },
-    {
-      "class": "bitmap",
-      "id": "376E573B-5585-4D22-9A56-01DA1F0D9AAC"
+      "class": "symbolInstance",
+      "id": "1792CAC0-0BA6-4588-9F0F-0FFA9A1B8028"
     },
     {
       "class": "symbolInstance",
-      "id": "E51E1105-CC06-4802-8551-2F3FC2758BCE"
-    },
-    {
-      "class": "group",
-      "id": "C0D0688E-A8F2-4EDA-9D69-3975493D97D9"
-    },
-    {
-      "class": "text",
-      "id": "0BA8C07D-F2C7-417B-BAF5-3C01EB44978F"
-    },
-    {
-      "class": "text",
-      "id": "FE777052-6FCB-47F4-A9A4-7307FFEC7DA6"
-    },
-    {
-      "class": "text",
-      "id": "72B2AD1F-7F58-4AA3-9F5D-8F79DDFFE69D"
-    },
-    {
-      "class": "text",
-      "id": "F3581D55-C591-4088-B92F-ABB36F4FE7D4"
-    },
-    {
-      "class": "text",
-      "id": "AEE802C8-2367-4DD4-8E54-67F443EE238D"
-    },
-    {
-      "class": "text",
-      "id": "A565EE07-98E5-4977-AD0D-804AEF82AA27"
-    },
-    {
-      "class": "text",
-      "id": "A60CE51C-8D00-42EB-8416-7B2F4B23CD3D"
-    },
-    {
-      "class": "text",
-      "id": "EABDE44B-11FD-4867-95DF-06775E231CD6"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "56B68039-14EB-41DD-AE9A-0B823BB9A04D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "0FEC2816-A8EC-4D5A-A5B1-F6161AF36C25"
-    },
-    {
-      "class": "group",
-      "id": "1FC26519-3917-4648-87C9-1B9D1C3C713A"
+      "id": "4C7A54C4-1562-4E18-984D-F703C68BCD04"
     }
   ],
   "name": "Desktop",
@@ -312,9 +259,7 @@
       617,
       647,
       2339,
-      218,
-      253,
-      141
+      131
     ]
   }
 }

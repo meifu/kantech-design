@@ -53,30 +53,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "266C8ED1-1764-4F86-A229-42AA9B0E5102"
-    },
-    {
-      "class": "bitmap",
-      "id": "EF7F4BD9-BF7E-477B-8E67-95705B0B4FA6"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "EBDF39D6-CF5A-4946-9CDA-D30340DF3A17"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "12E9E2E5-086F-4467-9ECF-8445D6BE53D7"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "1BAD23A5-9F05-4D2D-A55C-4E26F7EB0C46"
-    },
-    {
-      "class": "text",
-      "id": "C9D3C1A1-800B-4F6A-97BE-08559D2CF9BB"
-    },
-    {
       "class": "bitmap",
       "id": "43A51BC1-E3F5-46F3-BFAF-32CE5EA0CF2F"
     },
@@ -102,11 +78,15 @@
     },
     {
       "class": "group",
-      "id": "78F82575-C871-4CB2-9DB0-C446D0FCFE4E"
+      "id": "88EF72B3-9B5B-4956-86B1-F61F3F6A7EC0"
     },
     {
-      "class": "group",
-      "id": "88EF72B3-9B5B-4956-86B1-F61F3F6A7EC0"
+      "class": "shapeGroup",
+      "id": "7B495B79-0800-4683-AA07-9F03F848C088"
+    },
+    {
+      "class": "text",
+      "id": "20380FF2-184A-4F1D-AE40-A43F147A276A"
     },
     {
       "class": "group",
@@ -143,6 +123,10 @@
     {
       "class": "group",
       "id": "16DCD088-9A96-49DC-90C3-8D0D8BACDBA7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6D12AA21-EC69-4F58-8192-1BDAD2664F0F"
     }
   ],
   "name": "Mobile Portrait",

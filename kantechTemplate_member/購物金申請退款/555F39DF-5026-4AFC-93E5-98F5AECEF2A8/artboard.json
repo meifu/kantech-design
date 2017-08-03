@@ -20,7 +20,7 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 1380,
+    "height": 1354,
     "width": 1200,
     "x": -1209,
     "y": -518
@@ -39,9 +39,14 @@
     "guides": [
       600,
       30,
-      1170,
-      555,
-      645
+      1185,
+      16,
+      749,
+      295,
+      310,
+      325,
+      764,
+      734
     ]
   },
   "includeBackgroundColorInExport": true,
@@ -52,10 +57,6 @@
   "isVisible": true,
   "layerListExpandedType": 2,
   "layers": [
-    {
-      "class": "shapeGroup",
-      "id": "4872D99B-3815-4DA8-8031-1D78F00F6C95"
-    },
     {
       "class": "text",
       "id": "8FFC621C-0348-4955-B31B-30774C89FFEE"
@@ -87,6 +88,38 @@
     {
       "class": "text",
       "id": "C35F5B9F-C379-4A30-86B2-E070EA0A9934"
+    },
+    {
+      "class": "text",
+      "id": "BDAEF657-99C8-4FE2-B906-54438BCC37E7"
+    },
+    {
+      "class": "group",
+      "id": "8BBB8B0C-757B-4418-8E10-39ABABB600C8"
+    },
+    {
+      "class": "text",
+      "id": "0664FF73-4435-4979-B0C6-435ED20BEEF1"
+    },
+    {
+      "class": "group",
+      "id": "FA76EB73-2373-4905-9CCF-0AD3C0F35BE0"
+    },
+    {
+      "class": "text",
+      "id": "4C177E02-C85A-4DA9-A0A5-D2DE60D80C71"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D0553EF9-B09A-45F5-8CA0-EEE5C7E3FE52"
+    },
+    {
+      "class": "group",
+      "id": "C9A8CAA9-F0DD-4950-B4B5-95DE84CC91D7"
+    },
+    {
+      "class": "text",
+      "id": "601C196D-7D66-4EA6-9AB9-54B2FCBEB01D"
     },
     {
       "class": "group",
@@ -189,104 +222,16 @@
       "id": "869FAABA-7F84-49E8-BBB1-4E068D4E07D0"
     },
     {
-      "class": "text",
-      "id": "BDAEF657-99C8-4FE2-B906-54438BCC37E7"
-    },
-    {
-      "class": "group",
-      "id": "8BBB8B0C-757B-4418-8E10-39ABABB600C8"
-    },
-    {
-      "class": "text",
-      "id": "0664FF73-4435-4979-B0C6-435ED20BEEF1"
-    },
-    {
-      "class": "group",
-      "id": "FA76EB73-2373-4905-9CCF-0AD3C0F35BE0"
-    },
-    {
-      "class": "text",
-      "id": "4C177E02-C85A-4DA9-A0A5-D2DE60D80C71"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "D0553EF9-B09A-45F5-8CA0-EEE5C7E3FE52"
-    },
-    {
       "class": "symbolInstance",
       "id": "2B4CC087-C7D4-4774-9F6F-49C2801CF9FF"
     },
     {
-      "class": "shapeGroup",
-      "id": "CED2F4A7-F5D5-4C16-818A-CF4E735E034D"
+      "class": "symbolInstance",
+      "id": "302293EF-A2DC-47BF-8C51-D88277BCFAC8"
     },
     {
       "class": "symbolInstance",
-      "id": "4F9BCAD1-C6C4-4DB9-A448-CE44A760867D"
-    },
-    {
-      "class": "group",
-      "id": "DEE316D2-3B10-46CA-8BB2-80A97AF44453"
-    },
-    {
-      "class": "bitmap",
-      "id": "662B6898-760B-447E-875B-38947E107B48"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "491C3436-8E22-4317-B63F-1C53F11C81F7"
-    },
-    {
-      "class": "group",
-      "id": "2599AA93-E0E1-4471-B19E-0BDD3ECB960D"
-    },
-    {
-      "class": "text",
-      "id": "DFCD6D75-F7D1-40F1-AB98-8C591DD003E4"
-    },
-    {
-      "class": "text",
-      "id": "E2056B6D-6CA8-44C9-B039-6700FFB9473E"
-    },
-    {
-      "class": "text",
-      "id": "6ACFDA1E-49ED-42F0-AB35-FDF0D44D7917"
-    },
-    {
-      "class": "text",
-      "id": "D27AF532-F0D4-4060-AC5F-119F3D97B2C4"
-    },
-    {
-      "class": "text",
-      "id": "DC83C611-F8B6-4EB3-9293-E8B338E16F53"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "BF8294B3-6F7F-4582-A1C8-9B0775641251"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "295C7D64-C3F0-4F06-8AB2-6025F46EBB7B"
-    },
-    {
-      "class": "text",
-      "id": "37828E3D-E83D-4440-A2A2-C1C51994396A"
-    },
-    {
-      "class": "text",
-      "id": "470CC890-CA63-4E32-B91E-75BF4FD615C4"
-    },
-    {
-      "class": "text",
-      "id": "ACF957F3-E18A-4F5C-872D-765A9C13B387"
-    },
-    {
-      "class": "text",
-      "id": "AF59149B-5C29-4C55-A409-1F28CE3079A2"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "44D78D49-9E95-4A9E-9646-A557D3EDCBD2"
+      "id": "652D4044-731D-4D9B-BC28-11B76FF19E16"
     }
   ],
   "name": "Desktop",
@@ -306,6 +251,7 @@
     "_class": "rulerData",
     "base": 0,
     "guides": [
+      131
     ]
   }
 }

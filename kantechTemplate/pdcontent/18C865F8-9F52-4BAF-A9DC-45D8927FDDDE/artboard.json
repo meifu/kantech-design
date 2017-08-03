@@ -51,30 +51,6 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "shapeGroup",
-      "id": "E6CB2389-C1D5-4467-B7BC-98735D2F929E"
-    },
-    {
-      "class": "bitmap",
-      "id": "3E90CC57-BE16-46A0-B496-F4678C67137D"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "A60270B2-8707-43B5-A901-8E0A407C49E0"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "AE23CC8A-E5FC-43E1-8168-043564D26A7D"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "92730D21-D778-474F-83A7-6E073E0575C5"
-    },
-    {
-      "class": "text",
-      "id": "C926D15D-CFF8-4953-957D-EA6403220A74"
-    },
-    {
       "class": "group",
       "id": "4A6BBD1B-07DD-4879-A5D4-EA920972EB2E"
     },
@@ -219,44 +195,12 @@
       "id": "34DF9F47-647F-44D2-A5D2-5AB8F8ABCED7"
     },
     {
-      "class": "text",
-      "id": "18F32656-6C13-4018-ABBE-C465ADD4310A"
-    },
-    {
       "class": "shapeGroup",
-      "id": "E137654E-C988-4E6A-B4F9-C467EB59D94B"
-    },
-    {
-      "class": "text",
-      "id": "4641B7CF-F3EB-43D3-9E39-38544CE7C8BF"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "591C55E6-AAFA-4B33-A555-96234AFD61B7"
-    },
-    {
-      "class": "text",
-      "id": "B78102CA-5491-4F30-9AA8-376802AB0843"
-    },
-    {
-      "class": "text",
-      "id": "CFCA07CB-B274-4BD6-A416-EA34A81960EF"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "8FD50DA7-A420-4104-B11D-D28F2D50AC13"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "9EA67F05-FC9F-4BB4-96D3-A69888121860"
+      "id": "B6673F65-1A5B-43FC-9452-B3BCF50BA429"
     },
     {
       "class": "text",
       "id": "857BD7BC-6821-40F6-9BD7-5B5E9F7A6471"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "B6673F65-1A5B-43FC-9452-B3BCF50BA429"
     },
     {
       "class": "shapeGroup",
@@ -269,6 +213,18 @@
     {
       "class": "group",
       "id": "519E3AF6-73C3-4B67-9949-7A4B84617AF0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "31CC2742-C386-4DCA-8FD4-22D9F7A71CCD"
+    },
+    {
+      "class": "group",
+      "id": "1BAF8845-E112-4F86-AA29-3DC118DD3453"
+    },
+    {
+      "class": "text",
+      "id": "328F4A73-A897-4BCC-B262-71FF1F7640BE"
     }
   ],
   "name": "Mobile Portrait",
